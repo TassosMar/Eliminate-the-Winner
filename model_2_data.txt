@@ -1,0 +1,6085 @@
+
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9594
+        Number of systems where each phage has a different main food source = 9594
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9594
+        percentage = 1.0 
+
+        Number of cases were both happen = 9594
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 708
+        number of bacteria that increase diversity = 708
+        percentage = 1.0 
+
+
+        number of species that ever existed = 2772
+        number of bacteria that ever existed = 1643
+        number of phages that ever existed = 1129 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 10
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 10.3985
+        Average number of bacteria = 5.4941
+        Average number of phages = 4.9044 
+
+
+        n_max = 21
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7653
+        Number of systems where each phage has a different main food source = 7453
+        percentage = 0.9738664575983275 
+
+        Number of systems where each bacteria has a different main predator = 7394
+        percentage = 0.966157062589834 
+
+        Number of cases were both happen = 7203
+        percentage = 0.9411995295962368 
+
+        difference % between phages and bacteria = 0.024957532993597265 
+
+        percentage both and the same = 0.8222919116686267 
+
+        difference % between both and both_and_the_same) = 0.11890761792761007 
+
+        Total number of cases that follow this pattern = 0.9988239905919247 
+
+
+        Average number of interactions per phage 1.083841708139348 
+
+
+        number of bacteria without predators = 1038
+        number of bacteria that increase diversity = 1069
+        percentage = 0.971000935453695 
+
+
+        number of species that ever existed = 4486
+        number of bacteria that ever existed = 2460
+        number of phages that ever existed = 2026 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 177
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 102 
+
+
+        Average number of species = 5.4266
+        Average number of bacteria = 2.935
+        Average number of phages = 2.4916 
+
+
+        n_max = 16
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 6828
+        Number of systems where each phage has a different main food source = 6544
+        percentage = 0.958406561218512 
+
+        Number of systems where each bacteria has a different main predator = 6504
+        percentage = 0.9525483304042179 
+
+        Number of cases were both happen = 6237
+        percentage = 0.913444639718805 
+
+        difference % between phages and bacteria = 0.03910369068541297 
+
+        percentage both and the same = 0.8243995313415349 
+
+        difference % between both and both_and_the_same) = 0.08904510837727009 
+
+        Total number of cases that follow this pattern = 0.997510251903925 
+
+
+        Average number of interactions per phage 1.1301310464444017 
+
+
+        number of bacteria without predators = 945
+        number of bacteria that increase diversity = 981
+        percentage = 0.963302752293578 
+
+
+        number of species that ever existed = 4475
+        number of bacteria that ever existed = 2401
+        number of phages that ever existed = 2074 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 304
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 204 
+
+
+        Average number of species = 4.5676
+        Average number of bacteria = 2.492
+        Average number of phages = 2.0756 
+
+
+        n_max = 13
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6512
+        Number of systems where each phage has a different main food source = 6160
+        percentage = 0.9459459459459459 
+
+        Number of systems where each bacteria has a different main predator = 6270
+        percentage = 0.9628378378378378 
+
+        Number of cases were both happen = 5933
+        percentage = 0.9110872235872236 
+
+        difference % between phages and bacteria = 0.051750614250614224 
+
+        percentage both and the same = 0.8115786240786241 
+
+        difference % between both and both_and_the_same) = 0.09950859950859947 
+
+        Total number of cases that follow this pattern = 0.9976965601965602 
+
+
+        Average number of interactions per phage 1.163682192931786 
+
+
+        number of bacteria without predators = 836
+        number of bacteria that increase diversity = 889
+        percentage = 0.9403824521934758 
+
+
+        number of species that ever existed = 4427
+        number of bacteria that ever existed = 2298
+        number of phages that ever existed = 2129 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 409
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 295 
+
+
+        Average number of species = 4.1689
+        Average number of bacteria = 2.2646
+        Average number of phages = 1.9043 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+
+        Number of systems with more than 2 phages = 6450
+        Number of systems where each phage has a different main food source = 5978
+        percentage = 0.9268217054263566 
+
+        Number of systems where each bacteria has a different main predator = 6189
+        percentage = 0.9595348837209302 
+
+        Number of cases were both happen = 5779
+        percentage = 0.895968992248062 
+
+        difference % between phages and bacteria = 0.06356589147286817 
+
+        percentage both and the same = 0.8096124031007752 
+
+        difference % between both and both_and_the_same) = 0.08635658914728683 
+
+        Total number of cases that follow this pattern = 0.9903875968992247 
+
+
+        Average number of interactions per phage 1.2213337684943428 
+
+
+        number of bacteria without predators = 724
+        number of bacteria that increase diversity = 789
+        percentage = 0.917617237008872 
+
+
+        number of species that ever existed = 4328
+        number of bacteria that ever existed = 2194
+        number of phages that ever existed = 2134 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 434
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 363 
+
+
+        Average number of species = 3.9833
+        Average number of bacteria = 2.1449
+        Average number of phages = 1.8384 
+
+
+        n_max = 11
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5430
+        Number of systems where each phage has a different main food source = 5026
+        percentage = 0.9255985267034991 
+
+        Number of systems where each bacteria has a different main predator = 5195
+        percentage = 0.9567219152854513 
+
+        Number of cases were both happen = 4813
+        percentage = 0.8863720073664825 
+
+        difference % between phages and bacteria = 0.07034990791896878 
+
+        percentage both and the same = 0.8372007366482505 
+
+        difference % between both and both_and_the_same) = 0.04917127071823202 
+
+        Total number of cases that follow this pattern = 0.9959484346224678 
+
+
+        Average number of interactions per phage 1.253315649867374 
+
+
+        number of bacteria without predators = 647
+        number of bacteria that increase diversity = 714
+        percentage = 0.9061624649859944 
+
+
+        number of species that ever existed = 4239
+        number of bacteria that ever existed = 2112
+        number of phages that ever existed = 2127 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 557
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 430 
+
+
+        Average number of species = 3.4477
+        Average number of bacteria = 1.8643
+        Average number of phages = 1.5834 
+
+
+        n_max = 8
+
+
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.6 
+
+
+        Number of systems with more than 2 phages = 4876
+        Number of systems where each phage has a different main food source = 4529
+        percentage = 0.9288351107465135 
+
+        Number of systems where each bacteria has a different main predator = 4759
+        percentage = 0.9760049220672683 
+
+        Number of cases were both happen = 4417
+        percentage = 0.9058654634946678 
+
+        difference % between phages and bacteria = 0.07013945857260051 
+
+        percentage both and the same = 0.8798195242001641 
+
+        difference % between both and both_and_the_same) = 0.026045939294503717 
+
+        Total number of cases that follow this pattern = 0.998974569319114 
+
+
+        Average number of interactions per phage 1.2501350256548744 
+
+
+        number of bacteria without predators = 556
+        number of bacteria that increase diversity = 620
+        percentage = 0.896774193548387 
+
+
+        number of species that ever existed = 4040
+        number of bacteria that ever existed = 1995
+        number of phages that ever existed = 2045 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 591
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 508 
+
+
+        Average number of species = 3.1964
+        Average number of bacteria = 1.7152
+        Average number of phages = 1.4812 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3843
+        Number of systems where each phage has a different main food source = 3543
+        percentage = 0.921935987509758 
+
+        Number of systems where each bacteria has a different main predator = 3750
+        percentage = 0.975800156128025 
+
+        Number of cases were both happen = 3460
+        percentage = 0.9003382773874578 
+
+        difference % between phages and bacteria = 0.0754618787405672 
+
+        percentage both and the same = 0.8836846213895394 
+
+        difference % between both and both_and_the_same) = 0.01665365599791835 
+
+        Total number of cases that follow this pattern = 0.9973978662503252 
+
+
+        Average number of interactions per phage 1.2912806940155859 
+
+
+        number of bacteria without predators = 479
+        number of bacteria that increase diversity = 564
+        percentage = 0.849290780141844 
+
+
+        number of species that ever existed = 3975
+        number of bacteria that ever existed = 1940
+        number of phages that ever existed = 2035 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 636
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 578 
+
+
+        Average number of species = 2.9176
+        Average number of bacteria = 1.5574
+        Average number of phages = 1.3602 
+
+
+        n_max = 7
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+        Number of systems with more than 2 phages = 3046
+        Number of systems where each phage has a different main food source = 2734
+        percentage = 0.8975705843729481 
+
+        Number of systems where each bacteria has a different main predator = 2995
+        percentage = 0.9832567301378857 
+
+        Number of cases were both happen = 2687
+        percentage = 0.8821405121470781 
+
+        difference % between phages and bacteria = 0.10111621799080761 
+
+        percentage both and the same = 0.8791858174655286 
+
+        difference % between both and both_and_the_same) = 0.002954694681549519 
+
+        Total number of cases that follow this pattern = 0.9986868023637557 
+
+
+        Average number of interactions per phage 1.2639557836557442 
+
+
+        number of bacteria without predators = 421
+        number of bacteria that increase diversity = 502
+        percentage = 0.8386454183266933 
+
+
+        number of species that ever existed = 3843
+        number of bacteria that ever existed = 1839
+        number of phages that ever existed = 2004 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 687
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 615 
+
+
+        Average number of species = 2.7002
+        Average number of bacteria = 1.4337
+        Average number of phages = 1.2665 
+
+
+        n_max = 6
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 2041
+        Number of systems where each phage has a different main food source = 1790
+        percentage = 0.8770210681038707 
+
+        Number of systems where each bacteria has a different main predator = 2036
+        percentage = 0.9975502204801567 
+
+        Number of cases were both happen = 1785
+        percentage = 0.8745712885840274 
+
+        difference % between phages and bacteria = 0.1229789318961293 
+
+        percentage both and the same = 0.8726114649681529 
+
+        difference % between both and both_and_the_same) = 0.0019598236158745452 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.2445010615711252 
+
+
+        number of bacteria without predators = 236
+        number of bacteria that increase diversity = 328
+        percentage = 0.7195121951219512 
+
+
+        number of species that ever existed = 3618
+        number of bacteria that ever existed = 1745
+        number of phages that ever existed = 1873 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 734
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 664 
+
+
+        Average number of species = 2.4626
+        Average number of bacteria = 1.2851
+        Average number of phages = 1.1775 
+
+
+        n_max = 6
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 524
+        Number of systems where each phage has a different main food source = 437
+        percentage = 0.833969465648855 
+
+        Number of systems where each bacteria has a different main predator = 516
+        percentage = 0.9847328244274809 
+
+        Number of cases were both happen = 431
+        percentage = 0.8225190839694656 
+
+        difference % between phages and bacteria = 0.1622137404580153 
+
+        percentage both and the same = 0.8225190839694656 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.9961832061068703 
+
+
+        Average number of interactions per phage 1.1313237976384756 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 128
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3221
+        number of bacteria that ever existed = 1567
+        number of phages that ever existed = 1654 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 756
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 703 
+
+
+        Average number of species = 2.1233
+        Average number of bacteria = 1.0816
+        Average number of phages = 1.0417 
+
+
+        n_max = 6
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9942
+        Number of systems where each phage has a different main food source = 9942
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9942
+        percentage = 1.0 
+
+        Number of cases were both happen = 9942
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 52
+        number of bacteria that increase diversity = 52
+        percentage = 1.0 
+
+
+        number of species that ever existed = 222
+        number of bacteria that ever existed = 136
+        number of phages that ever existed = 86 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 5
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 7.9744
+        Average number of bacteria = 4.0267
+        Average number of phages = 3.9477 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7746
+        Number of systems where each phage has a different main food source = 7573
+        percentage = 0.9776658920733282 
+
+        Number of systems where each bacteria has a different main predator = 7481
+        percentage = 0.9657887942163698 
+
+        Number of cases were both happen = 7319
+        percentage = 0.944874774076943 
+
+        difference % between phages and bacteria = 0.02091402013942678 
+
+        percentage both and the same = 0.8325587399948361 
+
+        difference % between both and both_and_the_same) = 0.11231603408210689 
+
+        Total number of cases that follow this pattern = 0.998579912212755 
+
+
+        Average number of interactions per phage 1.0896285804217816 
+
+
+        number of bacteria without predators = 1022
+        number of bacteria that increase diversity = 1057
+        percentage = 0.9668874172185431 
+
+
+        number of species that ever existed = 4517
+        number of bacteria that ever existed = 2491
+        number of phages that ever existed = 2026 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 193
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 117 
+
+
+        Average number of species = 5.5358
+        Average number of bacteria = 2.9942
+        Average number of phages = 2.5416 
+
+
+        n_max = 16
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7153
+        Number of systems where each phage has a different main food source = 6908
+        percentage = 0.9657486369355515 
+
+        Number of systems where each bacteria has a different main predator = 6907
+        percentage = 0.9656088354536558 
+
+        Number of cases were both happen = 6690
+        percentage = 0.9352719138822871 
+
+        difference % between phages and bacteria = 0.03033692157136869 
+
+        percentage both and the same = 0.8171396616804139 
+
+        difference % between both and both_and_the_same) = 0.11813225220187329 
+
+        Total number of cases that follow this pattern = 0.9960855585069202 
+
+
+        Average number of interactions per phage 1.1311696484761304 
+
+
+        number of bacteria without predators = 919
+        number of bacteria that increase diversity = 950
+        percentage = 0.9673684210526315 
+
+
+        number of species that ever existed = 4409
+        number of bacteria that ever existed = 2340
+        number of phages that ever existed = 2069 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 276
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 196 
+
+
+        Average number of species = 4.8443
+        Average number of bacteria = 2.6197
+        Average number of phages = 2.2246 
+
+
+        n_max = 13
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6363
+        Number of systems where each phage has a different main food source = 6101
+        percentage = 0.9588244538739589 
+
+        Number of systems where each bacteria has a different main predator = 6134
+        percentage = 0.964010686782964 
+
+        Number of cases were both happen = 5911
+        percentage = 0.928964325003929 
+
+        difference % between phages and bacteria = 0.035046361779034974 
+
+        percentage both and the same = 0.8420556341348421 
+
+        difference % between both and both_and_the_same) = 0.08690869086908692 
+
+        Total number of cases that follow this pattern = 0.9938708156529938 
+
+
+        Average number of interactions per phage 1.173334055107454 
+
+
+        number of bacteria without predators = 876
+        number of bacteria that increase diversity = 917
+        percentage = 0.955288985823337 
+
+
+        number of species that ever existed = 4486
+        number of bacteria that ever existed = 2316
+        number of phages that ever existed = 2170 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 421
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 292 
+
+
+        Average number of species = 4.0545
+        Average number of bacteria = 2.2072
+        Average number of phages = 1.8473 
+
+
+        n_max = 10
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+        Number of systems with more than 2 phages = 6184
+        Number of systems where each phage has a different main food source = 5874
+        percentage = 0.9498706338939198 
+
+        Number of systems where each bacteria has a different main predator = 5941
+        percentage = 0.9607050452781372 
+
+        Number of cases were both happen = 5676
+        percentage = 0.9178525226390686 
+
+        difference % between phages and bacteria = 0.04285252263906858 
+
+        percentage both and the same = 0.8420116429495472 
+
+        difference % between both and both_and_the_same) = 0.07584087968952136 
+
+        Total number of cases that follow this pattern = 0.9927231565329884 
+
+
+        Average number of interactions per phage 1.2119389687047555 
+
+
+        number of bacteria without predators = 785
+        number of bacteria that increase diversity = 832
+        percentage = 0.9435096153846154 
+
+
+        number of species that ever existed = 4320
+        number of bacteria that ever existed = 2197
+        number of phages that ever existed = 2123 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 474
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 370 
+
+
+        Average number of species = 3.891
+        Average number of bacteria = 2.0952
+        Average number of phages = 1.7958 
+
+
+        n_max = 10
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 4975
+        Number of systems where each phage has a different main food source = 4649
+        percentage = 0.9344723618090452 
+
+        Number of systems where each bacteria has a different main predator = 4802
+        percentage = 0.9652261306532663 
+
+        Number of cases were both happen = 4521
+        percentage = 0.9087437185929649 
+
+        difference % between phages and bacteria = 0.05648241206030147 
+
+        percentage both and the same = 0.8705527638190955 
+
+        difference % between both and both_and_the_same) = 0.03819095477386936 
+
+        Total number of cases that follow this pattern = 0.9909547738693467 
+
+
+        Average number of interactions per phage 1.2008736514660137 
+
+
+        number of bacteria without predators = 673
+        number of bacteria that increase diversity = 738
+        percentage = 0.9119241192411924 
+
+
+        number of species that ever existed = 4326
+        number of bacteria that ever existed = 2162
+        number of phages that ever existed = 2164 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 604
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 465 
+
+
+        Average number of species = 3.3045
+        Average number of bacteria = 1.7936
+        Average number of phages = 1.5109 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.6
+
+
+        Number of systems with more than 2 phages = 4961
+        Number of systems where each phage has a different main food source = 4544
+        percentage = 0.9159443660552308 
+
+        Number of systems where each bacteria has a different main predator = 4811
+        percentage = 0.9697641604515219 
+
+        Number of cases were both happen = 4418
+        percentage = 0.8905462608345092 
+
+        difference % between phages and bacteria = 0.07921789961701275 
+
+        percentage both and the same = 0.8629308607135658 
+
+        difference % between both and both_and_the_same) = 0.027615400120943323 
+
+        Total number of cases that follow this pattern = 0.9951622656722435 
+
+
+        Average number of interactions per phage 1.2815354070152216 
+
+
+        number of bacteria without predators = 549
+        number of bacteria that increase diversity = 618
+        percentage = 0.8883495145631068 
+
+
+        number of species that ever existed = 4049
+        number of bacteria that ever existed = 1965
+        number of phages that ever existed = 2084 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 586
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 512 
+
+
+        Average number of species = 3.2361
+        Average number of bacteria = 1.7251
+        Average number of phages = 1.511 
+
+
+        n_max = 8
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3898
+        Number of systems where each phage has a different main food source = 3543
+        percentage = 0.9089276552077988 
+
+        Number of systems where each bacteria has a different main predator = 3797
+        percentage = 0.974089276552078 
+
+        Number of cases were both happen = 3452
+        percentage = 0.8855823499230374 
+
+        difference % between phages and bacteria = 0.08850692662904058 
+
+        percentage both and the same = 0.870702924576706 
+
+        difference % between both and both_and_the_same) = 0.014879425346331465 
+
+        Total number of cases that follow this pattern = 0.9974345818368394 
+
+
+        Average number of interactions per phage 1.2772255518199094 
+
+
+        number of bacteria without predators = 497
+        number of bacteria that increase diversity = 577
+        percentage = 0.8613518197573656 
+
+
+        number of species that ever existed = 4003
+        number of bacteria that ever existed = 1957
+        number of phages that ever existed = 2046 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 648
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 604 
+
+
+        Average number of species = 2.9201
+        Average number of bacteria = 1.5519
+        Average number of phages = 1.3682 
+
+
+        n_max = 8
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 3037
+        Number of systems where each phage has a different main food source = 2702
+        percentage = 0.889693776753375 
+
+        Number of systems where each bacteria has a different main predator = 2974
+        percentage = 0.9792558445834705 
+
+        Number of cases were both happen = 2656
+        percentage = 0.8745472505762265 
+
+        difference % between phages and bacteria = 0.10470859400724397 
+
+        percentage both and the same = 0.8646690813302601 
+
+        difference % between both and both_and_the_same) = 0.009878169245966406 
+
+        Total number of cases that follow this pattern = 0.994402370760619 
+
+
+        Average number of interactions per phage 1.3071205007824727 
+
+
+        number of bacteria without predators = 378
+        number of bacteria that increase diversity = 471
+        percentage = 0.802547770700637 
+
+
+        number of species that ever existed = 3754
+        number of bacteria that ever existed = 1791
+        number of phages that ever existed = 1963 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 681
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 582 
+
+
+        Average number of species = 2.7128
+        Average number of bacteria = 1.4348
+        Average number of phages = 1.278 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 2144
+        Number of systems where each phage has a different main food source = 1952
+        percentage = 0.9104477611940298 
+
+        Number of systems where each bacteria has a different main predator = 2136
+        percentage = 0.996268656716418 
+
+        Number of cases were both happen = 1944
+        percentage = 0.9067164179104478 
+
+        difference % between phages and bacteria = 0.08955223880597019 
+
+        percentage both and the same = 0.9053171641791045 
+
+        difference % between both and both_and_the_same) = 0.0013992537313433084 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.2777730986271372 
+
+
+        number of bacteria without predators = 210
+        number of bacteria that increase diversity = 321
+        percentage = 0.6542056074766355 
+
+
+        number of species that ever existed = 3620
+        number of bacteria that ever existed = 1778
+        number of phages that ever existed = 1842 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 730
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 670 
+
+
+        Average number of species = 2.4797
+        Average number of bacteria = 1.2924
+        Average number of phages = 1.1873 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 736
+        Number of systems where each phage has a different main food source = 605
+        percentage = 0.8220108695652174 
+
+        Number of systems where each bacteria has a different main predator = 732
+        percentage = 0.9945652173913043 
+
+        Number of cases were both happen = 602
+        percentage = 0.8179347826086957 
+
+        difference % between phages and bacteria = 0.17663043478260865 
+
+        percentage both and the same = 0.8179347826086957 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.998641304347826 
+
+
+        Average number of interactions per phage 1.1660093896713615 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 128
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3277
+        number of bacteria that ever existed = 1564
+        number of phages that ever existed = 1713 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 739
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 702 
+
+
+        Average number of species = 2.1678
+        Average number of bacteria = 1.1028
+        Average number of phages = 1.065 
+
+
+        n_max = 5
+
+
+
+
+
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9838
+        Number of systems where each phage has a different main food source = 9838
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9838
+        percentage = 1.0 
+
+        Number of cases were both happen = 9838
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 310
+        number of bacteria that increase diversity = 310
+        percentage = 1.0 
+
+
+        number of species that ever existed = 1219
+        number of bacteria that ever existed = 750
+        number of phages that ever existed = 469 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 5
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 11.3499
+        Average number of bacteria = 6.0638
+        Average number of phages = 5.2861 
+
+
+        n_max = 17
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7609
+        Number of systems where each phage has a different main food source = 7502
+        percentage = 0.9859377053489289 
+
+        Number of systems where each bacteria has a different main predator = 7399
+        percentage = 0.9724011039558418 
+
+        Number of cases were both happen = 7292
+        percentage = 0.9583388093047707 
+
+        difference % between phages and bacteria = 0.014062294651071117 
+
+        percentage both and the same = 0.859377053489289 
+
+        difference % between both and both_and_the_same) = 0.09896175581548172 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0602883355176933 
+
+
+        number of bacteria without predators = 1064
+        number of bacteria that increase diversity = 1091
+        percentage = 0.9752520623281393 
+
+
+        number of species that ever existed = 4529
+        number of bacteria that ever existed = 2482
+        number of phages that ever existed = 2047 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 168
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 103 
+
+
+        Average number of species = 5.3354
+        Average number of bacteria = 2.8938
+        Average number of phages = 2.4416 
+
+
+        n_max = 14
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 6943
+        Number of systems where each phage has a different main food source = 6713
+        percentage = 0.9668731096067982 
+
+        Number of systems where each bacteria has a different main predator = 6634
+        percentage = 0.9554947429065246 
+
+        Number of cases were both happen = 6415
+        percentage = 0.9239521820538672 
+
+        difference % between phages and bacteria = 0.031542560852657386 
+
+        percentage both and the same = 0.8343655480339911 
+
+        difference % between both and both_and_the_same) = 0.0895866340198761 
+
+        Total number of cases that follow this pattern = 0.9984156704594556 
+
+
+        Average number of interactions per phage 1.1316126583479622 
+
+
+        number of bacteria without predators = 926
+        number of bacteria that increase diversity = 971
+        percentage = 0.9536560247167868 
+
+
+        number of species that ever existed = 4437
+        number of bacteria that ever existed = 2386
+        number of phages that ever existed = 2051 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 319
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 213 
+
+
+        Average number of species = 4.619
+        Average number of bacteria = 2.5113
+        Average number of phages = 2.1077 
+
+
+        n_max = 12
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6315
+        Number of systems where each phage has a different main food source = 6030
+        percentage = 0.9548693586698337 
+
+        Number of systems where each bacteria has a different main predator = 6085
+        percentage = 0.9635787806809184 
+
+        Number of cases were both happen = 5835
+        percentage = 0.9239904988123515 
+
+        difference % between phages and bacteria = 0.03958828186856689 
+
+        percentage both and the same = 0.8161520190023753 
+
+        difference % between both and both_and_the_same) = 0.10783847980997618 
+
+        Total number of cases that follow this pattern = 0.9944576405384006 
+
+
+        Average number of interactions per phage 1.1577625814723795 
+
+
+        number of bacteria without predators = 862
+        number of bacteria that increase diversity = 907
+        percentage = 0.9503858875413451 
+
+
+        number of species that ever existed = 4411
+        number of bacteria that ever existed = 2285
+        number of phages that ever existed = 2126 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 401
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 284 
+
+
+        Average number of species = 4.1051
+        Average number of bacteria = 2.2333
+        Average number of phages = 1.8718 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+        Number of systems with more than 2 phages = 6260
+        Number of systems where each phage has a different main food source = 5864
+        percentage = 0.936741214057508 
+
+        Number of systems where each bacteria has a different main predator = 6031
+        percentage = 0.9634185303514377 
+
+        Number of cases were both happen = 5660
+        percentage = 0.9041533546325878 
+
+        difference % between phages and bacteria = 0.059265175718849816 
+
+        percentage both and the same = 0.83370607028754 
+
+        difference % between both and both_and_the_same) = 0.07044728434504788 
+
+        Total number of cases that follow this pattern = 0.9960063897763578 
+
+
+        Average number of interactions per phage 1.2090588432898495 
+
+
+        number of bacteria without predators = 751
+        number of bacteria that increase diversity = 810
+        percentage = 0.9271604938271605 
+
+
+        number of species that ever existed = 4305
+        number of bacteria that ever existed = 2144
+        number of phages that ever existed = 2161 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 429
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 339 
+
+
+        Average number of species = 3.8719
+        Average number of bacteria = 2.0858
+        Average number of phages = 1.7861 
+
+
+        n_max = 9
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5599
+        Number of systems where each phage has a different main food source = 5194
+        percentage = 0.9276656545811752 
+
+        Number of systems where each bacteria has a different main predator = 5310
+        percentage = 0.9483836399357028 
+
+        Number of cases were both happen = 4960
+        percentage = 0.8858724772280765 
+
+        difference % between phages and bacteria = 0.06251116270762636 
+
+        percentage both and the same = 0.8369351669941061 
+
+        difference % between both and both_and_the_same) = 0.04893731023397041 
+
+        Total number of cases that follow this pattern = 0.9901768172888016 
+
+
+        Average number of interactions per phage 1.2615649606299213 
+
+
+        number of bacteria without predators = 635
+        number of bacteria that increase diversity = 714
+        percentage = 0.8893557422969187 
+
+
+        number of species that ever existed = 4210
+        number of bacteria that ever existed = 2086
+        number of phages that ever existed = 2124 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 558
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 437 
+
+
+        Average number of species = 3.5241
+        Average number of bacteria = 1.8985
+        Average number of phages = 1.6256 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+        Number of systems with more than 2 phages = 5167
+        Number of systems where each phage has a different main food source = 4706
+        percentage = 0.9107799496806658 
+
+        Number of systems where each bacteria has a different main predator = 4993
+        percentage = 0.9663247532417263 
+
+        Number of cases were both happen = 4581
+        percentage = 0.8865879620669634 
+
+        difference % between phages and bacteria = 0.07973679117476284 
+
+        percentage both and the same = 0.8544610025159667 
+
+        difference % between both and both_and_the_same) = 0.03212695955099676 
+
+        Total number of cases that follow this pattern = 0.9905167408554286 
+
+
+        Average number of interactions per phage 1.2846074380165289 
+
+
+        number of bacteria without predators = 594
+        number of bacteria that increase diversity = 663
+        percentage = 0.8959276018099548 
+
+
+        number of species that ever existed = 3978
+        number of bacteria that ever existed = 1949
+        number of phages that ever existed = 2029 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 547
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 471 
+
+
+        Average number of species = 3.3193
+        Average number of bacteria = 1.7705
+        Average number of phages = 1.5488 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 4102
+        Number of systems where each phage has a different main food source = 3702
+        percentage = 0.9024865919063871 
+
+        Number of systems where each bacteria has a different main predator = 4019
+        percentage = 0.9797659678205753 
+
+        Number of cases were both happen = 3630
+        percentage = 0.8849341784495368 
+
+        difference % between phages and bacteria = 0.09483178937103853 
+
+        percentage both and the same = 0.8664066309117504 
+
+        difference % between both and both_and_the_same) = 0.018527547537786404 
+
+        Total number of cases that follow this pattern = 0.9973183812774257 
+
+
+        Average number of interactions per phage 1.278580153768772 
+
+
+        number of bacteria without predators = 513
+        number of bacteria that increase diversity = 582
+        percentage = 0.8814432989690721 
+
+
+        number of species that ever existed = 3956
+        number of bacteria that ever existed = 1919
+        number of phages that ever existed = 2037 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 622
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 540 
+
+
+        Average number of species = 2.9849
+        Average number of bacteria = 1.5932
+        Average number of phages = 1.3917 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 3014
+        Number of systems where each phage has a different main food source = 2649
+        percentage = 0.8788984737889848 
+
+        Number of systems where each bacteria has a different main predator = 2987
+        percentage = 0.991041804910418 
+
+        Number of cases were both happen = 2633
+        percentage = 0.8735899137358991 
+
+        difference % between phages and bacteria = 0.11745189117451893 
+
+        percentage both and the same = 0.8725945587259456 
+
+        difference % between both and both_and_the_same) = 0.0009953550099535136 
+
+        Total number of cases that follow this pattern = 0.9963503649635037 
+
+
+        Average number of interactions per phage 1.267811906269791 
+
+
+        number of bacteria without predators = 392
+        number of bacteria that increase diversity = 461
+        percentage = 0.8503253796095445 
+
+
+        number of species that ever existed = 3823
+        number of bacteria that ever existed = 1838
+        number of phages that ever existed = 1985 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 683
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 610 
+
+
+        Average number of species = 2.6809
+        Average number of bacteria = 1.4177
+        Average number of phages = 1.2632 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 2029
+        Number of systems where each phage has a different main food source = 1737
+        percentage = 0.8560867422375554 
+
+        Number of systems where each bacteria has a different main predator = 2018
+        percentage = 0.9945786101527846 
+
+        Number of cases were both happen = 1728
+        percentage = 0.8516510596352883 
+
+        difference % between phages and bacteria = 0.14292755051749628 
+
+        percentage both and the same = 0.8482010842779695 
+
+        difference % between both and both_and_the_same) = 0.003449975357318835 
+
+        Total number of cases that follow this pattern = 0.9990142927550517 
+
+
+        Average number of interactions per phage 1.2426514441509755 
+
+
+        number of bacteria without predators = 223
+        number of bacteria that increase diversity = 330
+        percentage = 0.6757575757575758 
+
+
+        number of species that ever existed = 3688
+        number of bacteria that ever existed = 1759
+        number of phages that ever existed = 1929 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 736
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 667 
+
+
+        Average number of species = 2.4548
+        Average number of bacteria = 1.2811
+        Average number of phages = 1.1737 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 806
+        Number of systems where each phage has a different main food source = 657
+        percentage = 0.815136476426799 
+
+        Number of systems where each bacteria has a different main predator = 806
+        percentage = 1.0 
+
+        Number of cases were both happen = 657
+        percentage = 0.815136476426799 
+
+        difference % between phages and bacteria = 0.18486352357320102 
+
+        percentage both and the same = 0.815136476426799 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.1832402234636872 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 150
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3312
+        number of bacteria that ever existed = 1629
+        number of phages that ever existed = 1683 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 747
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 751 
+
+
+        Average number of species = 2.1901
+        Average number of bacteria = 1.1161
+        Average number of phages = 1.074 
+
+
+        n_max = 4
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9907
+        Number of systems where each phage has a different main food source = 9907
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9907
+        percentage = 1.0 
+
+        Number of cases were both happen = 9907
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 198
+        number of bacteria that increase diversity = 198
+        percentage = 1.0 
+
+
+        number of species that ever existed = 799
+        number of bacteria that ever existed = 497
+        number of phages that ever existed = 302 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 7
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 8.5748
+        Average number of bacteria = 4.703
+        Average number of phages = 3.8718 
+
+
+        n_max = 18
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7877
+        Number of systems where each phage has a different main food source = 7737
+        percentage = 0.9822267360670306 
+
+        Number of systems where each bacteria has a different main predator = 7614
+        percentage = 0.9666116541830646 
+
+        Number of cases were both happen = 7479
+        percentage = 0.9494731496762727 
+
+        difference % between phages and bacteria = 0.017138504506791885 
+
+        percentage both and the same = 0.8255681096864288 
+
+        difference % between both and both_and_the_same) = 0.12390503998984392 
+
+        Total number of cases that follow this pattern = 0.9993652405738225 
+
+
+        Average number of interactions per phage 1.0739566825145272 
+
+
+        number of bacteria without predators = 1029
+        number of bacteria that increase diversity = 1048
+        percentage = 0.9818702290076335 
+
+
+        number of species that ever existed = 4518
+        number of bacteria that ever existed = 2483
+        number of phages that ever existed = 2035 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 202
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 105 
+
+
+        Average number of species = 5.747
+        Average number of bacteria = 3.0968
+        Average number of phages = 2.6502 
+
+
+        n_max = 15
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7041
+        Number of systems where each phage has a different main food source = 6787
+        percentage = 0.963925578753018 
+
+        Number of systems where each bacteria has a different main predator = 6798
+        percentage = 0.9654878568385172 
+
+        Number of cases were both happen = 6565
+        percentage = 0.9323959664820338 
+
+        difference % between phages and bacteria = 0.03309189035648341 
+
+        percentage both and the same = 0.8230365004970884 
+
+        difference % between both and both_and_the_same) = 0.10935946598494539 
+
+        Total number of cases that follow this pattern = 0.9970174691095014 
+
+
+        Average number of interactions per phage 1.1290217289937516 
+
+
+        number of bacteria without predators = 950
+        number of bacteria that increase diversity = 989
+        percentage = 0.9605662285136501 
+
+
+        number of species that ever existed = 4530
+        number of bacteria that ever existed = 2410
+        number of phages that ever existed = 2120 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 316
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 207 
+
+
+        Average number of species = 4.6919
+        Average number of bacteria = 2.5473
+        Average number of phages = 2.1446 
+
+
+        n_max = 13
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6649
+        Number of systems where each phage has a different main food source = 6340
+        percentage = 0.953526846142277 
+
+        Number of systems where each bacteria has a different main predator = 6456
+        percentage = 0.9709730786584448 
+
+        Number of cases were both happen = 6178
+        percentage = 0.9291622800421115 
+
+        difference % between phages and bacteria = 0.0418107986163333 
+
+        percentage both and the same = 0.8593773499774402 
+
+        difference % between both and both_and_the_same) = 0.06978493006467135 
+
+        Total number of cases that follow this pattern = 0.9953376447586103 
+
+
+        Average number of interactions per phage 1.162043337171569 
+
+
+        number of bacteria without predators = 856
+        number of bacteria that increase diversity = 900
+        percentage = 0.9511111111111111 
+
+
+        number of species that ever existed = 4445
+        number of bacteria that ever existed = 2301
+        number of phages that ever existed = 2144 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 399
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 310 
+
+
+        Average number of species = 4.1685
+        Average number of bacteria = 2.2579
+        Average number of phages = 1.9106 
+
+
+        n_max = 10
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+
+        Number of systems with more than 2 phages = 6106
+        Number of systems where each phage has a different main food source = 5586
+        percentage = 0.9148378643956764 
+
+        Number of systems where each bacteria has a different main predator = 5844
+        percentage = 0.957091385522437 
+
+        Number of cases were both happen = 5387
+        percentage = 0.8822469701932525 
+
+        difference % between phages and bacteria = 0.07484441532918451 
+
+        percentage both and the same = 0.815263675073698 
+
+        difference % between both and both_and_the_same) = 0.06698329511955448 
+
+        Total number of cases that follow this pattern = 0.9896822797248609 
+
+
+        Average number of interactions per phage 1.2227493505026545 
+
+
+        number of bacteria without predators = 766
+        number of bacteria that increase diversity = 818
+        percentage = 0.9364303178484108 
+
+
+        number of species that ever existed = 4310
+        number of bacteria that ever existed = 2156
+        number of phages that ever existed = 2154 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 478
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 353 
+
+
+        Average number of species = 3.8525
+        Average number of bacteria = 2.0819
+        Average number of phages = 1.7706 
+
+
+        n_max = 11
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5589
+        Number of systems where each phage has a different main food source = 5093
+        percentage = 0.9112542494185006 
+
+        Number of systems where each bacteria has a different main predator = 5415
+        percentage = 0.9688674181427804 
+
+        Number of cases were both happen = 4974
+        percentage = 0.8899624261943102 
+
+        difference % between phages and bacteria = 0.07890499194847023 
+
+        percentage both and the same = 0.8432635534084809 
+
+        difference % between both and both_and_the_same) = 0.04669887278582929 
+
+        Total number of cases that follow this pattern = 0.9901592413669709 
+
+
+        Average number of interactions per phage 1.2633684976355037 
+
+
+        number of bacteria without predators = 696
+        number of bacteria that increase diversity = 754
+        percentage = 0.9230769230769231 
+
+
+        number of species that ever existed = 4297
+        number of bacteria that ever existed = 2087
+        number of phages that ever existed = 2210 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 529
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 455 
+
+
+        Average number of species = 3.5554
+        Average number of bacteria = 1.906
+        Average number of phages = 1.6494 
+
+
+        n_max = 9
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 5031
+        Number of systems where each phage has a different main food source = 4566
+        percentage = 0.9075730471079309 
+
+        Number of systems where each bacteria has a different main predator = 4847
+        percentage = 0.9634267541244286 
+
+        Number of cases were both happen = 4426
+        percentage = 0.879745577419996 
+
+        difference % between phages and bacteria = 0.08368117670443254 
+
+        percentage both and the same = 0.843967402106937 
+
+        difference % between both and both_and_the_same) = 0.035778175313059046 
+
+        Total number of cases that follow this pattern = 0.9912542238123634 
+
+
+        Average number of interactions per phage 1.2760204751279696 
+
+
+        number of bacteria without predators = 599
+        number of bacteria that increase diversity = 657
+        percentage = 0.9117199391171994 
+
+
+        number of species that ever existed = 4092
+        number of bacteria that ever existed = 1992
+        number of phages that ever existed = 2100 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 594
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 483 
+
+
+        Average number of species = 3.2786
+        Average number of bacteria = 1.7548
+        Average number of phages = 1.5238 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3763
+        Number of systems where each phage has a different main food source = 3446
+        percentage = 0.9157587031623704 
+
+        Number of systems where each bacteria has a different main predator = 3663
+        percentage = 0.9734254584108424 
+
+        Number of cases were both happen = 3359
+        percentage = 0.8926388519798033 
+
+        difference % between phages and bacteria = 0.08078660643103908 
+
+        percentage both and the same = 0.8785543449375498 
+
+        difference % between both and both_and_the_same) = 0.014084507042253502 
+
+        Total number of cases that follow this pattern = 0.9965453095934095 
+
+
+        Average number of interactions per phage 1.266686465216423 
+
+
+        number of bacteria without predators = 485
+        number of bacteria that increase diversity = 571
+        percentage = 0.8493870402802102 
+
+
+        number of species that ever existed = 4021
+        number of bacteria that ever existed = 1939
+        number of phages that ever existed = 2082 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 691
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 567 
+
+
+        Average number of species = 2.8867
+        Average number of bacteria = 1.5398
+        Average number of phages = 1.3469 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 3106
+        Number of systems where each phage has a different main food source = 2725
+        percentage = 0.8773341918866709 
+
+        Number of systems where each bacteria has a different main predator = 3027
+        percentage = 0.9745653573728268 
+
+        Number of cases were both happen = 2669
+        percentage = 0.8593045717965229 
+
+        difference % between phages and bacteria = 0.11526078557630393 
+
+        percentage both and the same = 0.8448164842240824 
+
+        difference % between both and both_and_the_same) = 0.014488087572440467 
+
+        Total number of cases that follow this pattern = 0.9925949774629749 
+
+
+        Average number of interactions per phage 1.3145847980626513 
+
+
+        number of bacteria without predators = 364
+        number of bacteria that increase diversity = 448
+        percentage = 0.8125 
+
+
+        number of species that ever existed = 3806
+        number of bacteria that ever existed = 1819
+        number of phages that ever existed = 1987 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 679
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 623 
+
+
+        Average number of species = 2.7174
+        Average number of bacteria = 1.4373
+        Average number of phages = 1.2801 
+
+
+        n_max = 8
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 1878
+        Number of systems where each phage has a different main food source = 1602
+        percentage = 0.853035143769968 
+
+        Number of systems where each bacteria has a different main predator = 1849
+        percentage = 0.9845580404685836 
+
+        Number of cases were both happen = 1577
+        percentage = 0.8397231096911608 
+
+        difference % between phages and bacteria = 0.14483493077742282 
+
+        percentage both and the same = 0.8375931842385517 
+
+        difference % between both and both_and_the_same) = 0.0021299254526091493 
+
+        Total number of cases that follow this pattern = 0.9978700745473909 
+
+
+        Average number of interactions per phage 1.2418424451140766 
+
+
+        number of bacteria without predators = 221
+        number of bacteria that increase diversity = 335
+        percentage = 0.6597014925373135 
+
+
+        number of species that ever existed = 3567
+        number of bacteria that ever existed = 1732
+        number of phages that ever existed = 1835 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 710
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 660 
+
+
+        Average number of species = 2.4297
+        Average number of bacteria = 1.2682
+        Average number of phages = 1.1615 
+
+
+        n_max = 6
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 787
+        Number of systems where each phage has a different main food source = 631
+        percentage = 0.8017789072426937 
+
+        Number of systems where each bacteria has a different main predator = 786
+        percentage = 0.9987293519695044 
+
+        Number of cases were both happen = 630
+        percentage = 0.8005082592121983 
+
+        difference % between phages and bacteria = 0.19822109275730615 
+
+        percentage both and the same = 0.8005082592121983 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.9999999999999999 
+
+
+        Average number of interactions per phage 1.1735955056179774 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 121
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3335
+        number of bacteria that ever existed = 1649
+        number of phages that ever existed = 1686 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 771
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 758 
+
+
+        Average number of species = 2.1744
+        Average number of bacteria = 1.1064
+        Average number of phages = 1.068 
+
+
+        n_max = 5
+
+
+
+
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9701
+        Number of systems where each phage has a different main food source = 9701
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9701
+        percentage = 1.0 
+
+        Number of cases were both happen = 9701
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 681
+        number of bacteria that increase diversity = 681
+        percentage = 1.0 
+
+
+        number of species that ever existed = 2669
+        number of bacteria that ever existed = 1573
+        number of phages that ever existed = 1096 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 8
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 9.7361
+        Average number of bacteria = 5.1693
+        Average number of phages = 4.5668 
+
+
+        n_max = 20
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7985
+        Number of systems where each phage has a different main food source = 7757
+        percentage = 0.9714464621164683 
+
+        Number of systems where each bacteria has a different main predator = 7753
+        percentage = 0.9709455228553537 
+
+        Number of cases were both happen = 7544
+        percentage = 0.9447714464621164 
+
+        difference % between phages and bacteria = 0.026174076393237322 
+
+        percentage both and the same = 0.7927363807138385 
+
+        difference % between both and both_and_the_same) = 0.15203506574827796 
+
+        Total number of cases that follow this pattern = 0.9976205385097057 
+
+
+        Average number of interactions per phage 1.0914023524270784 
+
+
+        number of bacteria without predators = 1038
+        number of bacteria that increase diversity = 1065
+        percentage = 0.9746478873239437 
+
+
+        number of species that ever existed = 4510
+        number of bacteria that ever existed = 2477
+        number of phages that ever existed = 2033 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 176
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 110 
+
+
+        Average number of species = 5.9384
+        Average number of bacteria = 3.1923
+        Average number of phages = 2.7461 
+
+
+        n_max = 16
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7355
+        Number of systems where each phage has a different main food source = 7179
+        percentage = 0.9760707002039429 
+
+        Number of systems where each bacteria has a different main predator = 7087
+        percentage = 0.9635622025832766 
+
+        Number of cases were both happen = 6918
+        percentage = 0.9405846363018355 
+
+        difference % between phages and bacteria = 0.022977566281441097 
+
+        percentage both and the same = 0.80231135282121 
+
+        difference % between both and both_and_the_same) = 0.1382732834806255 
+
+        Total number of cases that follow this pattern = 0.999048266485384 
+
+
+        Average number of interactions per phage 1.1316548998712312 
+
+
+        number of bacteria without predators = 888
+        number of bacteria that increase diversity = 931
+        percentage = 0.9538131041890441 
+
+
+        number of species that ever existed = 4335
+        number of bacteria that ever existed = 2266
+        number of phages that ever existed = 2069 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 284
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 202 
+
+
+        Average number of species = 4.8804
+        Average number of bacteria = 2.6283
+        Average number of phages = 2.2521 
+
+
+        n_max = 12
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6606
+        Number of systems where each phage has a different main food source = 6167
+        percentage = 0.9335452618831366 
+
+        Number of systems where each bacteria has a different main predator = 6404
+        percentage = 0.9694217378141083 
+
+        Number of cases were both happen = 6010
+        percentage = 0.9097789887980624 
+
+        difference % between phages and bacteria = 0.05964274901604594 
+
+        percentage both and the same = 0.8266727217680896 
+
+        difference % between both and both_and_the_same) = 0.08310626702997281 
+
+        Total number of cases that follow this pattern = 0.9931880108991825 
+
+
+        Average number of interactions per phage 1.1693994778067884 
+
+
+        number of bacteria without predators = 842
+        number of bacteria that increase diversity = 885
+        percentage = 0.9514124293785311 
+
+
+        number of species that ever existed = 4488
+        number of bacteria that ever existed = 2319
+        number of phages that ever existed = 2169 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 409
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 299 
+
+
+        Average number of species = 4.1766
+        Average number of bacteria = 2.2616
+        Average number of phages = 1.915 
+
+
+        n_max = 11
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+        Number of systems with more than 2 phages = 6153
+        Number of systems where each phage has a different main food source = 5736
+        percentage = 0.932228181374939 
+
+        Number of systems where each bacteria has a different main predator = 5943
+        percentage = 0.9658703071672355 
+
+        Number of cases were both happen = 5565
+        percentage = 0.9044368600682594 
+
+        difference % between phages and bacteria = 0.061433447098976135 
+
+        percentage both and the same = 0.8514545750040631 
+
+        difference % between both and both_and_the_same) = 0.05298228506419633 
+
+        Total number of cases that follow this pattern = 0.9936616284739151 
+
+
+        Average number of interactions per phage 1.2149442841789695 
+
+
+        number of bacteria without predators = 747
+        number of bacteria that increase diversity = 814
+        percentage = 0.9176904176904177 
+
+
+        number of species that ever existed = 4389
+        number of bacteria that ever existed = 2176
+        number of phages that ever existed = 2213 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 465
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 371 
+
+
+        Average number of species = 3.8366
+        Average number of bacteria = 2.0687
+        Average number of phages = 1.7679 
+
+
+        n_max = 9
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5530
+        Number of systems where each phage has a different main food source = 5161
+        percentage = 0.9332730560578661 
+
+        Number of systems where each bacteria has a different main predator = 5353
+        percentage = 0.9679927667269439 
+
+        Number of cases were both happen = 5025
+        percentage = 0.9086799276672695 
+
+        difference % between phages and bacteria = 0.05931283905967444 
+
+        percentage both and the same = 0.8546112115732369 
+
+        difference % between both and both_and_the_same) = 0.05406871609403252 
+
+        Total number of cases that follow this pattern = 0.9925858951175406 
+
+
+        Average number of interactions per phage 1.2447376495857625 
+
+
+        number of bacteria without predators = 647
+        number of bacteria that increase diversity = 710
+        percentage = 0.9112676056338028 
+
+
+        number of species that ever existed = 4132
+        number of bacteria that ever existed = 2049
+        number of phages that ever existed = 2083 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 551
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 435 
+
+
+        Average number of species = 3.5264
+        Average number of bacteria = 1.8969
+        Average number of phages = 1.6295 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.6 
+
+
+        Number of systems with more than 2 phages = 5084
+        Number of systems where each phage has a different main food source = 4631
+        percentage = 0.9108969315499607 
+
+        Number of systems where each bacteria has a different main predator = 4928
+        percentage = 0.969315499606609 
+
+        Number of cases were both happen = 4498
+        percentage = 0.8847364280094414 
+
+        difference % between phages and bacteria = 0.0845790715971676 
+
+        percentage both and the same = 0.8532651455546814 
+
+        difference % between both and both_and_the_same) = 0.03147128245476005 
+
+        Total number of cases that follow this pattern = 0.9954760031471283 
+
+
+        Average number of interactions per phage 1.2864959937463358 
+
+
+        number of bacteria without predators = 558
+        number of bacteria that increase diversity = 637
+        percentage = 0.8759811616954474 
+
+
+        number of species that ever existed = 4073
+        number of bacteria that ever existed = 2016
+        number of phages that ever existed = 2057 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 589
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 503 
+
+
+        Average number of species = 3.2904
+        Average number of bacteria = 1.7553
+        Average number of phages = 1.5351 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3944
+        Number of systems where each phage has a different main food source = 3568
+        percentage = 0.9046653144016227 
+
+        Number of systems where each bacteria has a different main predator = 3879
+        percentage = 0.9835192697768763 
+
+        Number of cases were both happen = 3517
+        percentage = 0.8917342799188641 
+
+        difference % between phages and bacteria = 0.0917849898580122 
+
+        percentage both and the same = 0.8747464503042597 
+
+        difference % between both and both_and_the_same) = 0.016987829614604433 
+
+        Total number of cases that follow this pattern = 0.9964503042596349 
+
+
+        Average number of interactions per phage 1.2791377420533432 
+
+
+        number of bacteria without predators = 487
+        number of bacteria that increase diversity = 555
+        percentage = 0.8774774774774775 
+
+
+        number of species that ever existed = 3896
+        number of bacteria that ever existed = 1894
+        number of phages that ever existed = 2002 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 613
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 569 
+
+
+        Average number of species = 2.9322
+        Average number of bacteria = 1.5637
+        Average number of phages = 1.3685 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+        Number of systems with more than 2 phages = 3175
+        Number of systems where each phage has a different main food source = 2779
+        percentage = 0.8752755905511811 
+
+        Number of systems where each bacteria has a different main predator = 3092
+        percentage = 0.9738582677165354 
+
+        Number of cases were both happen = 2724
+        percentage = 0.8579527559055118 
+
+        difference % between phages and bacteria = 0.1159055118110236 
+
+        percentage both and the same = 0.8525984251968504 
+
+        difference % between both and both_and_the_same) = 0.005354330708661426 
+
+        Total number of cases that follow this pattern = 0.9911811023622047 
+
+
+        Average number of interactions per phage 1.2874107420055882 
+
+
+        number of bacteria without predators = 394
+        number of bacteria that increase diversity = 488
+        percentage = 0.8073770491803278 
+
+
+        number of species that ever existed = 3786
+        number of bacteria that ever existed = 1815
+        number of phages that ever existed = 1971 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 646
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 592 
+
+
+        Average number of species = 2.7324
+        Average number of bacteria = 1.444
+        Average number of phages = 1.2884 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+
+
+        Number of systems with more than 2 phages = 2145
+        Number of systems where each phage has a different main food source = 1884
+        percentage = 0.8783216783216783 
+
+        Number of systems where each bacteria has a different main predator = 2126
+        percentage = 0.9911421911421912 
+
+        Number of cases were both happen = 1865
+        percentage = 0.8694638694638694 
+
+        difference % between phages and bacteria = 0.12167832167832171 
+
+        percentage both and the same = 0.8675990675990676 
+
+        difference % between both and both_and_the_same) = 0.0018648018648018683 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.2730627306273063 
+
+
+        number of bacteria without predators = 229
+        number of bacteria that increase diversity = 332
+        percentage = 0.6897590361445783 
+
+
+        number of species that ever existed = 3611
+        number of bacteria that ever existed = 1746
+        number of phages that ever existed = 1865 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 703
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 688 
+
+
+        Average number of species = 2.4939
+        Average number of bacteria = 1.3015
+        Average number of phages = 1.1924 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 592
+        Number of systems where each phage has a different main food source = 498
+        percentage = 0.8412162162162162 
+
+        Number of systems where each bacteria has a different main predator = 592
+        percentage = 1.0 
+
+        Number of cases were both happen = 498
+        percentage = 0.8412162162162162 
+
+        difference % between phages and bacteria = 0.15878378378378377 
+
+        percentage both and the same = 0.8412162162162162 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.133650642551166 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 110
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3390
+        number of bacteria that ever existed = 1656
+        number of phages that ever existed = 1734 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 785
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 756 
+
+
+        Average number of species = 2.1316
+        Average number of bacteria = 1.0811
+        Average number of phages = 1.0505 
+
+
+        n_max = 4
+
+
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9569
+        Number of systems where each phage has a different main food source = 9569
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9569
+        percentage = 1.0 
+
+        Number of cases were both happen = 9569
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 630
+        number of bacteria that increase diversity = 630
+        percentage = 1.0 
+
+
+        number of species that ever existed = 2427
+        number of bacteria that ever existed = 1429
+        number of phages that ever existed = 998 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 4
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 9.2715
+        Average number of bacteria = 4.9721
+        Average number of phages = 4.2994 
+
+
+        n_max = 17
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7814
+        Number of systems where each phage has a different main food source = 7671
+        percentage = 0.9816995136933708 
+
+        Number of systems where each bacteria has a different main predator = 7656
+        percentage = 0.9797798822626056 
+
+        Number of cases were both happen = 7521
+        percentage = 0.9625031993857179 
+
+        difference % between phages and bacteria = 0.01727668287688766 
+
+        percentage both and the same = 0.8451497312515996 
+
+        difference % between both and both_and_the_same) = 0.11735346813411829 
+
+        Total number of cases that follow this pattern = 0.9989761965702585 
+
+
+        Average number of interactions per phage 1.0726387459425224 
+
+
+        number of bacteria without predators = 1080
+        number of bacteria that increase diversity = 1112
+        percentage = 0.9712230215827338 
+
+
+        number of species that ever existed = 4620
+        number of bacteria that ever existed = 2534
+        number of phages that ever existed = 2086 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 188
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 112 
+
+
+        Average number of species = 5.4865
+        Average number of bacteria = 2.9603
+        Average number of phages = 2.5262 
+
+
+        n_max = 16
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7321
+        Number of systems where each phage has a different main food source = 7085
+        percentage = 0.9677639666712198 
+
+        Number of systems where each bacteria has a different main predator = 7084
+        percentage = 0.9676273733096572 
+
+        Number of cases were both happen = 6886
+        percentage = 0.9405818877202567 
+
+        difference % between phages and bacteria = 0.027045485589400453 
+
+        percentage both and the same = 0.817101488867641 
+
+        difference % between both and both_and_the_same) = 0.12348039885261575 
+
+        Total number of cases that follow this pattern = 0.9948094522606202 
+
+
+        Average number of interactions per phage 1.129323776877532 
+
+
+        number of bacteria without predators = 946
+        number of bacteria that increase diversity = 984
+        percentage = 0.9613821138211383 
+
+
+        number of species that ever existed = 4472
+        number of bacteria that ever existed = 2377
+        number of phages that ever existed = 2095 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 285
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 191 
+
+
+        Average number of species = 4.88
+        Average number of bacteria = 2.6337
+        Average number of phages = 2.2463 
+
+
+        n_max = 13
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6384
+        Number of systems where each phage has a different main food source = 6102
+        percentage = 0.9558270676691729 
+
+        Number of systems where each bacteria has a different main predator = 6151
+        percentage = 0.9635025062656641 
+
+        Number of cases were both happen = 5884
+        percentage = 0.9216791979949874 
+
+        difference % between phages and bacteria = 0.04182330827067671 
+
+        percentage both and the same = 0.8350563909774437 
+
+        difference % between both and both_and_the_same) = 0.08662280701754377 
+
+        Total number of cases that follow this pattern = 0.9976503759398496 
+
+
+        Average number of interactions per phage 1.1727375140818626 
+
+
+        number of bacteria without predators = 843
+        number of bacteria that increase diversity = 897
+        percentage = 0.939799331103679 
+
+
+        number of species that ever existed = 4426
+        number of bacteria that ever existed = 2295
+        number of phages that ever existed = 2131 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 382
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 302 
+
+
+        Average number of species = 4.0899
+        Average number of bacteria = 2.2258
+        Average number of phages = 1.8641 
+
+
+        n_max = 11
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+        Number of systems with more than 2 phages = 6119
+        Number of systems where each phage has a different main food source = 5698
+        percentage = 0.9311979081549273 
+
+        Number of systems where each bacteria has a different main predator = 5919
+        percentage = 0.9673149207386827 
+
+        Number of cases were both happen = 5540
+        percentage = 0.9053766955384867 
+
+        difference % between phages and bacteria = 0.061938225200196095 
+
+        percentage both and the same = 0.8367380290897205 
+
+        difference % between both and both_and_the_same) = 0.06863866644876615 
+
+        Total number of cases that follow this pattern = 0.9931361333551234 
+
+
+        Average number of interactions per phage 1.2354199504616077 
+
+
+        number of bacteria without predators = 744
+        number of bacteria that increase diversity = 799
+        percentage = 0.9311639549436797 
+
+
+        number of species that ever existed = 4296
+        number of bacteria that ever existed = 2185
+        number of phages that ever existed = 2111 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 481
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 373 
+
+
+        Average number of species = 3.8667
+        Average number of bacteria = 2.0903
+        Average number of phages = 1.7764 
+
+
+        n_max = 11
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5444
+        Number of systems where each phage has a different main food source = 5035
+        percentage = 0.9248714180749449 
+
+        Number of systems where each bacteria has a different main predator = 5265
+        percentage = 0.9671197648787656 
+
+        Number of cases were both happen = 4891
+        percentage = 0.8984202792064658 
+
+        difference % between phages and bacteria = 0.06869948567229978 
+
+        percentage both and the same = 0.8457016899338722 
+
+        difference % between both and both_and_the_same) = 0.05271858927259365 
+
+        Total number of cases that follow this pattern = 0.9935709037472447 
+
+
+        Average number of interactions per phage 1.2602528522972556 
+
+
+        number of bacteria without predators = 671
+        number of bacteria that increase diversity = 738
+        percentage = 0.9092140921409214 
+
+
+        number of species that ever existed = 4252
+        number of bacteria that ever existed = 2152
+        number of phages that ever existed = 2100 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 580
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 469 
+
+
+        Average number of species = 3.5153
+        Average number of bacteria = 1.8938
+        Average number of phages = 1.6215 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 4869
+        Number of systems where each phage has a different main food source = 4481
+        percentage = 0.9203121790922161 
+
+        Number of systems where each bacteria has a different main predator = 4778
+        percentage = 0.9813103306633806 
+
+        Number of cases were both happen = 4398
+        percentage = 0.9032655576093653 
+
+        difference % between phages and bacteria = 0.07804477305401525 
+
+        percentage both and the same = 0.8749229821318546 
+
+        difference % between both and both_and_the_same) = 0.028342575477510734 
+
+        Total number of cases that follow this pattern = 0.9983569521462313 
+
+
+        Average number of interactions per phage 1.2627021947781731 
+
+
+        number of bacteria without predators = 594
+        number of bacteria that increase diversity = 653
+        percentage = 0.9096477794793262 
+
+
+        number of species that ever existed = 4139
+        number of bacteria that ever existed = 2031
+        number of phages that ever existed = 2108 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 579
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 521 
+
+
+        Average number of species = 3.2089
+        Average number of bacteria = 1.719
+        Average number of phages = 1.4899 
+
+
+        n_max = 8
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3693
+        Number of systems where each phage has a different main food source = 3316
+        percentage = 0.8979149742756567 
+
+        Number of systems where each bacteria has a different main predator = 3614
+        percentage = 0.9786081776333604 
+
+        Number of cases were both happen = 3267
+        percentage = 0.8846466287571081 
+
+        difference % between phages and bacteria = 0.0939615488762523 
+
+        percentage both and the same = 0.8732737611697806 
+
+        difference % between both and both_and_the_same) = 0.011372867587327473 
+
+        Total number of cases that follow this pattern = 0.991876523151909 
+
+
+        Average number of interactions per phage 1.2679386457164235 
+
+
+        number of bacteria without predators = 494
+        number of bacteria that increase diversity = 564
+        percentage = 0.875886524822695 
+
+
+        number of species that ever existed = 3997
+        number of bacteria that ever existed = 1962
+        number of phages that ever existed = 2035 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 699
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 561 
+
+
+        Average number of species = 2.8808
+        Average number of bacteria = 1.5443
+        Average number of phages = 1.3365 
+
+
+        n_max = 9
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 2835
+        Number of systems where each phage has a different main food source = 2503
+        percentage = 0.8828924162257495 
+
+        Number of systems where each bacteria has a different main predator = 2794
+        percentage = 0.9855379188712522 
+
+        Number of cases were both happen = 2478
+        percentage = 0.8740740740740741 
+
+        difference % between phages and bacteria = 0.11146384479717808 
+
+        percentage both and the same = 0.8677248677248677 
+
+        difference % between both and both_and_the_same) = 0.006349206349206438 
+
+        Total number of cases that follow this pattern = 0.9943562610229276 
+
+
+        Average number of interactions per phage 1.2683335996165521 
+
+
+        number of bacteria without predators = 374
+        number of bacteria that increase diversity = 467
+        percentage = 0.8008565310492506 
+
+
+        number of species that ever existed = 3816
+        number of bacteria that ever existed = 1861
+        number of phages that ever existed = 1955 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 707
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 615 
+
+
+        Average number of species = 2.6629
+        Average number of bacteria = 1.4111
+        Average number of phages = 1.2518 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 1873
+        Number of systems where each phage has a different main food source = 1621
+        percentage = 0.8654564869193807 
+
+        Number of systems where each bacteria has a different main predator = 1871
+        percentage = 0.99893219434063 
+
+        Number of cases were both happen = 1619
+        percentage = 0.8643886812600107 
+
+        difference % between phages and bacteria = 0.1345435130806193 
+
+        percentage both and the same = 0.8643886812600107 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.2429100939574174 
+
+
+        number of bacteria without predators = 225
+        number of bacteria that increase diversity = 335
+        percentage = 0.6716417910447762 
+
+
+        number of species that ever existed = 3586
+        number of bacteria that ever existed = 1739
+        number of phages that ever existed = 1847 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 739
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 652 
+
+
+        Average number of species = 2.4278
+        Average number of bacteria = 1.2677
+        Average number of phages = 1.1601 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 838
+        Number of systems where each phage has a different main food source = 675
+        percentage = 0.8054892601431981 
+
+        Number of systems where each bacteria has a different main predator = 832
+        percentage = 0.9928400954653938 
+
+        Number of cases were both happen = 675
+        percentage = 0.8054892601431981 
+
+        difference % between phages and bacteria = 0.18735083532219565 
+
+        percentage both and the same = 0.8054892601431981 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.9928400954653938 
+
+
+        Average number of interactions per phage 1.187906976744186 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 141
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3326
+        number of bacteria that ever existed = 1618
+        number of phages that ever existed = 1708 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 734
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 736 
+
+
+        Average number of species = 2.1926
+        Average number of bacteria = 1.1176
+        Average number of phages = 1.075 
+
+
+        n_max = 5
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9734
+        Number of systems where each phage has a different main food source = 9734
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9734
+        percentage = 1.0 
+
+        Number of cases were both happen = 9734
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 455
+        number of bacteria that increase diversity = 455
+        percentage = 1.0 
+
+
+        number of species that ever existed = 1743
+        number of bacteria that ever existed = 1023
+        number of phages that ever existed = 720 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 10
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 9.5063
+        Average number of bacteria = 5.1258
+        Average number of phages = 4.3805 
+
+
+        n_max = 17
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7929
+        Number of systems where each phage has a different main food source = 7767
+        percentage = 0.9795686719636776 
+
+        Number of systems where each bacteria has a different main predator = 7670
+        percentage = 0.9673350990036574 
+
+        Number of cases were both happen = 7517
+        percentage = 0.9480388447471307 
+
+        difference % between phages and bacteria = 0.0192962542565267 
+
+        percentage both and the same = 0.8292344557951823 
+
+        difference % between both and both_and_the_same) = 0.11880438895194845 
+
+        Total number of cases that follow this pattern = 0.9988649262202043 
+
+
+        Average number of interactions per phage 1.093268016380267 
+
+
+        number of bacteria without predators = 1025
+        number of bacteria that increase diversity = 1060
+        percentage = 0.9669811320754716 
+
+
+        number of species that ever existed = 4543
+        number of bacteria that ever existed = 2514
+        number of phages that ever existed = 2029 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 181
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 111 
+
+
+        Average number of species = 5.6674
+        Average number of bacteria = 3.0545
+        Average number of phages = 2.6129 
+
+
+        n_max = 18
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7176
+        Number of systems where each phage has a different main food source = 6919
+        percentage = 0.9641861761426979 
+
+        Number of systems where each bacteria has a different main predator = 6827
+        percentage = 0.9513656633221851 
+
+        Number of cases were both happen = 6586
+        percentage = 0.9177814938684504 
+
+        difference % between phages and bacteria = 0.03358416945373466 
+
+        percentage both and the same = 0.7930602006688964 
+
+        difference % between both and both_and_the_same) = 0.12472129319955405 
+
+        Total number of cases that follow this pattern = 0.9977703455964325 
+
+
+        Average number of interactions per phage 1.1415921166159575 
+
+
+        number of bacteria without predators = 931
+        number of bacteria that increase diversity = 980
+        percentage = 0.95 
+
+
+        number of species that ever existed = 4487
+        number of bacteria that ever existed = 2408
+        number of phages that ever existed = 2079 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 311
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 208 
+
+
+        Average number of species = 4.8081
+        Average number of bacteria = 2.606
+        Average number of phages = 2.2021 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6565
+        Number of systems where each phage has a different main food source = 6165
+        percentage = 0.9390708301599391 
+
+        Number of systems where each bacteria has a different main predator = 6357
+        percentage = 0.9683168316831683 
+
+        Number of cases were both happen = 5992
+        percentage = 0.9127189642041127 
+
+        difference % between phages and bacteria = 0.055597867479055596 
+
+        percentage both and the same = 0.8123381568926124 
+
+        difference % between both and both_and_the_same) = 0.10038080731150034 
+
+        Total number of cases that follow this pattern = 0.9946686976389947 
+
+
+        Average number of interactions per phage 1.1927165454452977 
+
+
+        number of bacteria without predators = 865
+        number of bacteria that increase diversity = 907
+        percentage = 0.9536934950385888 
+
+
+        number of species that ever existed = 4461
+        number of bacteria that ever existed = 2261
+        number of phages that ever existed = 2200 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 394
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 331 
+
+
+        Average number of species = 4.2747
+        Average number of bacteria = 2.3086
+        Average number of phages = 1.9661 
+
+
+        n_max = 12
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+        Number of systems with more than 2 phages = 6200
+        Number of systems where each phage has a different main food source = 5785
+        percentage = 0.9330645161290323 
+
+        Number of systems where each bacteria has a different main predator = 5959
+        percentage = 0.9611290322580646 
+
+        Number of cases were both happen = 5603
+        percentage = 0.9037096774193548 
+
+        difference % between phages and bacteria = 0.057419354838709746 
+
+        percentage both and the same = 0.8412903225806452 
+
+        difference % between both and both_and_the_same) = 0.06241935483870964 
+
+        Total number of cases that follow this pattern = 0.990483870967742 
+
+
+        Average number of interactions per phage 1.2410859221942345 
+
+
+        number of bacteria without predators = 770
+        number of bacteria that increase diversity = 811
+        percentage = 0.9494451294697904 
+
+
+        number of species that ever existed = 4314
+        number of bacteria that ever existed = 2178
+        number of phages that ever existed = 2136 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 452
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 346 
+
+
+        Average number of species = 3.8859
+        Average number of bacteria = 2.0994
+        Average number of phages = 1.7865 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5740
+        Number of systems where each phage has a different main food source = 5361
+        percentage = 0.9339721254355401 
+
+        Number of systems where each bacteria has a different main predator = 5533
+        percentage = 0.9639372822299651 
+
+        Number of cases were both happen = 5200
+        percentage = 0.9059233449477352 
+
+        difference % between phages and bacteria = 0.05801393728222992 
+
+        percentage both and the same = 0.8604529616724739 
+
+        difference % between both and both_and_the_same) = 0.04547038327526132 
+
+        Total number of cases that follow this pattern = 0.99198606271777 
+
+
+        Average number of interactions per phage 1.2463636363636363 
+
+
+        number of bacteria without predators = 670
+        number of bacteria that increase diversity = 744
+        percentage = 0.9005376344086021 
+
+
+        number of species that ever existed = 4273
+        number of bacteria that ever existed = 2076
+        number of phages that ever existed = 2197 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 520
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 425 
+
+
+        Average number of species = 3.562
+        Average number of bacteria = 1.912
+        Average number of phages = 1.65 
+
+
+        n_max = 9
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 4848
+        Number of systems where each phage has a different main food source = 4429
+        percentage = 0.9135726072607261 
+
+        Number of systems where each bacteria has a different main predator = 4662
+        percentage = 0.9616336633663366 
+
+        Number of cases were both happen = 4302
+        percentage = 0.8873762376237624 
+
+        difference % between phages and bacteria = 0.07425742574257421 
+
+        percentage both and the same = 0.8593234323432343 
+
+        difference % between both and both_and_the_same) = 0.028052805280528115 
+
+        Total number of cases that follow this pattern = 0.9878300330033003 
+
+
+        Average number of interactions per phage 1.2494291470785763 
+
+
+        number of bacteria without predators = 556
+        number of bacteria that increase diversity = 618
+        percentage = 0.8996763754045307 
+
+
+        number of species that ever existed = 4018
+        number of bacteria that ever existed = 1978
+        number of phages that ever existed = 2040 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 579
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 477 
+
+
+        Average number of species = 3.2066
+        Average number of bacteria = 1.7176
+        Average number of phages = 1.489 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3805
+        Number of systems where each phage has a different main food source = 3405
+        percentage = 0.8948751642575559 
+
+        Number of systems where each bacteria has a different main predator = 3710
+        percentage = 0.9750328515111695 
+
+        Number of cases were both happen = 3326
+        percentage = 0.8741130091984232 
+
+        difference % between phages and bacteria = 0.10091984231274631 
+
+        percentage both and the same = 0.8628120893561104 
+
+        difference % between both and both_and_the_same) = 0.01130091984231274 
+
+        Total number of cases that follow this pattern = 0.9957950065703022 
+
+
+        Average number of interactions per phage 1.2714538484222944 
+
+
+        number of bacteria without predators = 493
+        number of bacteria that increase diversity = 566
+        percentage = 0.8710247349823321 
+
+
+        number of species that ever existed = 3991
+        number of bacteria that ever existed = 1936
+        number of phages that ever existed = 2055 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 651
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 593 
+
+
+        Average number of species = 2.9055
+        Average number of bacteria = 1.5491
+        Average number of phages = 1.3564 
+
+
+        n_max = 8
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+        Number of systems with more than 2 phages = 3079
+        Number of systems where each phage has a different main food source = 2706
+        percentage = 0.8788567716791166 
+
+        Number of systems where each bacteria has a different main predator = 3029
+        percentage = 0.983760961351088 
+
+        Number of cases were both happen = 2660
+        percentage = 0.8639168561221175 
+
+        difference % between phages and bacteria = 0.11984410522897049 
+
+        percentage both and the same = 0.8515751867489445 
+
+        difference % between both and both_and_the_same) = 0.012341669373173048 
+
+        Total number of cases that follow this pattern = 0.9987008769080871 
+
+
+        Average number of interactions per phage 1.3040757255730266 
+
+
+        number of bacteria without predators = 360
+        number of bacteria that increase diversity = 464
+        percentage = 0.7758620689655172 
+
+
+        number of species that ever existed = 3789
+        number of bacteria that ever existed = 1843
+        number of phages that ever existed = 1946 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 667
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 612 
+
+
+        Average number of species = 2.7146
+        Average number of bacteria = 1.4363
+        Average number of phages = 1.2783 
+
+
+        n_max = 7
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 1995
+        Number of systems where each phage has a different main food source = 1732
+        percentage = 0.8681704260651629 
+
+        Number of systems where each bacteria has a different main predator = 1967
+        percentage = 0.9859649122807017 
+
+        Number of cases were both happen = 1709
+        percentage = 0.8566416040100251 
+
+        difference % between phages and bacteria = 0.12932330827067662 
+
+        percentage both and the same = 0.8526315789473684 
+
+        difference % between both and both_and_the_same) = 0.004010025062656686 
+
+        Total number of cases that follow this pattern = 0.9974937343358395 
+
+
+        Average number of interactions per phage 1.2575151153878907 
+
+
+        number of bacteria without predators = 227
+        number of bacteria that increase diversity = 325
+        percentage = 0.6984615384615385 
+
+
+        number of species that ever existed = 3632
+        number of bacteria that ever existed = 1767
+        number of phages that ever existed = 1865 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 734
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 682 
+
+
+        Average number of species = 2.4563
+        Average number of bacteria = 1.282
+        Average number of phages = 1.1743 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 737
+        Number of systems where each phage has a different main food source = 650
+        percentage = 0.8819538670284939 
+
+        Number of systems where each bacteria has a different main predator = 734
+        percentage = 0.9959294436906377 
+
+        Number of cases were both happen = 647
+        percentage = 0.8778833107191316 
+
+        difference % between phages and bacteria = 0.11804613297150612 
+
+        percentage both and the same = 0.8778833107191316 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.1626924521216673 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 122
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3298
+        number of bacteria that ever existed = 1598
+        number of phages that ever existed = 1700 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 741
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 741 
+
+
+        Average number of species = 2.1639
+        Average number of bacteria = 1.0987
+        Average number of phages = 1.0652 
+
+
+        n_max = 6
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9861
+        Number of systems where each phage has a different main food source = 9861
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9861
+        percentage = 1.0 
+
+        Number of cases were both happen = 9861
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 227
+        number of bacteria that increase diversity = 227
+        percentage = 1.0 
+
+
+        number of species that ever existed = 896
+        number of bacteria that ever existed = 538
+        number of phages that ever existed = 358 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 10
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 11.473
+        Average number of bacteria = 6.1685
+        Average number of phages = 5.3045 
+
+
+        n_max = 16
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7783
+        Number of systems where each phage has a different main food source = 7645
+        percentage = 0.9822690479249646 
+
+        Number of systems where each bacteria has a different main predator = 7580
+        percentage = 0.9739175125273031 
+
+        Number of cases were both happen = 7461
+        percentage = 0.9586277784915842 
+
+        difference % between phages and bacteria = 0.015289734035718872 
+
+        percentage both and the same = 0.8490299370422716 
+
+        difference % between both and both_and_the_same) = 0.10959784144931262 
+
+        Total number of cases that follow this pattern = 0.9975587819606835 
+
+
+        Average number of interactions per phage 1.0675520771571998 
+
+
+        number of bacteria without predators = 1049
+        number of bacteria that increase diversity = 1074
+        percentage = 0.9767225325884544 
+
+
+        number of species that ever existed = 4471
+        number of bacteria that ever existed = 2479
+        number of phages that ever existed = 1992 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 186
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 120 
+
+
+        Average number of species = 5.5079
+        Average number of bacteria = 2.978
+        Average number of phages = 2.5299 
+
+
+        n_max = 17
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7134
+        Number of systems where each phage has a different main food source = 6883
+        percentage = 0.9648163723016541 
+
+        Number of systems where each bacteria has a different main predator = 6875
+        percentage = 0.963694981777404 
+
+        Number of cases were both happen = 6630
+        percentage = 0.9293523969722456 
+
+        difference % between phages and bacteria = 0.034342584805158394 
+
+        percentage both and the same = 0.8151107373142696 
+
+        difference % between both and both_and_the_same) = 0.11424165965797595 
+
+        Total number of cases that follow this pattern = 0.9991589571068125 
+
+
+        Average number of interactions per phage 1.1116217990807618 
+
+
+        number of bacteria without predators = 906
+        number of bacteria that increase diversity = 948
+        percentage = 0.9556962025316456 
+
+
+        number of species that ever existed = 4404
+        number of bacteria that ever existed = 2333
+        number of phages that ever existed = 2071 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 296
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 208 
+
+
+        Average number of species = 4.6607
+        Average number of bacteria = 2.5285
+        Average number of phages = 2.1322 
+
+
+        n_max = 12
+
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6731
+        Number of systems where each phage has a different main food source = 6332
+        percentage = 0.940722032387461 
+
+        Number of systems where each bacteria has a different main predator = 6427
+        percentage = 0.9548358341999703 
+
+        Number of cases were both happen = 6069
+        percentage = 0.9016490863170405 
+
+        difference % between phages and bacteria = 0.053186747882929764 
+
+        percentage both and the same = 0.790967166839994 
+
+        difference % between both and both_and_the_same) = 0.11068191947704653 
+
+        Total number of cases that follow this pattern = 0.9939087802703908 
+
+
+        Average number of interactions per phage 1.1968414838138346 
+
+
+        number of bacteria without predators = 878
+        number of bacteria that increase diversity = 928
+        percentage = 0.9461206896551724 
+
+
+        number of species that ever existed = 4489
+        number of bacteria that ever existed = 2273
+        number of phages that ever existed = 2216 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 367
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 283 
+
+
+        Average number of species = 4.4115
+        Average number of bacteria = 2.3789
+        Average number of phages = 2.0326 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+
+        Number of systems with more than 2 phages = 5799
+        Number of systems where each phage has a different main food source = 5379
+        percentage = 0.9275737196068288 
+
+        Number of systems where each bacteria has a different main predator = 5576
+        percentage = 0.9615450939817209 
+
+        Number of cases were both happen = 5215
+        percentage = 0.8992929815485429 
+
+        difference % between phages and bacteria = 0.062252112433178075 
+
+        percentage both and the same = 0.8201414036902914 
+
+        difference % between both and both_and_the_same) = 0.07915157785825144 
+
+        Total number of cases that follow this pattern = 0.9898258320400068 
+
+
+        Average number of interactions per phage 1.2220924119399497 
+
+
+        number of bacteria without predators = 780
+        number of bacteria that increase diversity = 836
+        percentage = 0.9330143540669856 
+
+
+        number of species that ever existed = 4440
+        number of bacteria that ever existed = 2257
+        number of phages that ever existed = 2183 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 554
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 408 
+
+
+        Average number of species = 3.734
+        Average number of bacteria = 2.0221
+        Average number of phages = 1.7119 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5244
+        Number of systems where each phage has a different main food source = 4750
+        percentage = 0.9057971014492754 
+
+        Number of systems where each bacteria has a different main predator = 5040
+        percentage = 0.9610983981693364 
+
+        Number of cases were both happen = 4562
+        percentage = 0.8699466056445462 
+
+        difference % between phages and bacteria = 0.09115179252479022 
+
+        percentage both and the same = 0.8173150266971777 
+
+        difference % between both and both_and_the_same) = 0.052631578947368474 
+
+        Total number of cases that follow this pattern = 0.9969488939740656 
+
+
+        Average number of interactions per phage 1.2544659587757652 
+
+
+        number of bacteria without predators = 680
+        number of bacteria that increase diversity = 758
+        percentage = 0.8970976253298153 
+
+
+        number of species that ever existed = 4337
+        number of bacteria that ever existed = 2157
+        number of phages that ever existed = 2180 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 567
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 468 
+
+
+        Average number of species = 3.4845
+        Average number of bacteria = 1.8835
+        Average number of phages = 1.601 
+
+
+        n_max = 8
+
+
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.6 
+
+
+        Number of systems with more than 2 phages = 4899
+        Number of systems where each phage has a different main food source = 4451
+        percentage = 0.9085527658705859 
+
+        Number of systems where each bacteria has a different main predator = 4715
+        percentage = 0.9624413145539906 
+
+        Number of cases were both happen = 4312
+        percentage = 0.8801796284956114 
+
+        difference % between phages and bacteria = 0.08226168605837925 
+
+        percentage both and the same = 0.8448662992447439 
+
+        difference % between both and both_and_the_same) = 0.0353133292508675 
+
+        Total number of cases that follow this pattern = 0.9908144519289651 
+
+
+        Average number of interactions per phage 1.289044906610147 
+
+
+        number of bacteria without predators = 607
+        number of bacteria that increase diversity = 666
+        percentage = 0.9114114114114115 
+
+
+        number of species that ever existed = 4172
+        number of bacteria that ever existed = 2027
+        number of phages that ever existed = 2145 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 574
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 500 
+
+
+        Average number of species = 3.2514
+        Average number of bacteria = 1.7416
+        Average number of phages = 1.5098 
+
+
+        n_max = 9
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3695
+        Number of systems where each phage has a different main food source = 3333
+        percentage = 0.9020297699594046 
+
+        Number of systems where each bacteria has a different main predator = 3610
+        percentage = 0.9769959404600812 
+
+        Number of cases were both happen = 3258
+        percentage = 0.8817320703653586 
+
+        difference % between phages and bacteria = 0.09526387009472259 
+
+        percentage both and the same = 0.8682002706359946 
+
+        difference % between both and both_and_the_same) = 0.013531799729364025 
+
+        Total number of cases that follow this pattern = 0.9972936400541272 
+
+
+        Average number of interactions per phage 1.2740284781963809 
+
+
+        number of bacteria without predators = 496
+        number of bacteria that increase diversity = 581
+        percentage = 0.8537005163511188 
+
+
+        number of species that ever existed = 3990
+        number of bacteria that ever existed = 1952
+        number of phages that ever existed = 2038 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 680
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 581 
+
+
+        Average number of species = 2.8885
+        Average number of bacteria = 1.5401
+        Average number of phages = 1.3484 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+        Number of systems with more than 2 phages = 3123
+        Number of systems where each phage has a different main food source = 2744
+        percentage = 0.8786423310918988 
+
+        Number of systems where each bacteria has a different main predator = 3068
+        percentage = 0.9823887287864234 
+
+        Number of cases were both happen = 2703
+        percentage = 0.8655139289145053 
+
+        difference % between phages and bacteria = 0.11687479987191807 
+
+        percentage both and the same = 0.8581492154979187 
+
+        difference % between both and both_and_the_same) = 0.007364713416586621 
+
+        Total number of cases that follow this pattern = 0.9955171309638169 
+
+
+        Average number of interactions per phage 1.2847097429486678 
+
+
+        number of bacteria without predators = 391
+        number of bacteria that increase diversity = 473
+        percentage = 0.8266384778012685 
+
+
+        number of species that ever existed = 3883
+        number of bacteria that ever existed = 1894
+        number of phages that ever existed = 1989 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 700
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 633 
+
+
+        Average number of species = 2.7134
+        Average number of bacteria = 1.4335
+        Average number of phages = 1.2799 
+
+
+        n_max = 7
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+
+        Number of systems with more than 2 phages = 1906
+        Number of systems where each phage has a different main food source = 1635
+        percentage = 0.8578174186778594 
+
+        Number of systems where each bacteria has a different main predator = 1900
+        percentage = 0.9968520461699895 
+
+        Number of cases were both happen = 1629
+        percentage = 0.8546694648478489 
+
+        difference % between phages and bacteria = 0.14218258132214057 
+
+        percentage both and the same = 0.8530954879328436 
+
+        difference % between both and both_and_the_same) = 0.0015739769150052707 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.235749290688677 
+
+
+        number of bacteria without predators = 235
+        number of bacteria that increase diversity = 322
+        percentage = 0.7298136645962733 
+
+
+        number of species that ever existed = 3533
+        number of bacteria that ever existed = 1713
+        number of phages that ever existed = 1820 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 711
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 679 
+
+
+        Average number of species = 2.4315
+        Average number of bacteria = 1.2684
+        Average number of phages = 1.1631 
+
+
+        n_max = 6
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 632
+        Number of systems where each phage has a different main food source = 509
+        percentage = 0.805379746835443 
+
+        Number of systems where each bacteria has a different main predator = 632
+        percentage = 1.0 
+
+        Number of cases were both happen = 509
+        percentage = 0.805379746835443 
+
+        difference % between phages and bacteria = 0.194620253164557 
+
+        percentage both and the same = 0.805379746835443 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.1439681335356602 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 122
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3220
+        number of bacteria that ever existed = 1582
+        number of phages that ever existed = 1638 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 754
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 712 
+
+
+        Average number of species = 2.143
+        Average number of bacteria = 1.0886
+        Average number of phages = 1.0544 
+
+
+        n_max = 4
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9707
+        Number of systems where each phage has a different main food source = 9707
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9707
+        percentage = 1.0 
+
+        Number of cases were both happen = 9707
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 574
+        number of bacteria that increase diversity = 574
+        percentage = 1.0 
+
+
+        number of species that ever existed = 2253
+        number of bacteria that ever existed = 1348
+        number of phages that ever existed = 905 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 11
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 8.6799
+        Average number of bacteria = 4.6356
+        Average number of phages = 4.0443 
+
+
+        n_max = 17
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 8042
+        Number of systems where each phage has a different main food source = 7886
+        percentage = 0.9806018403382243 
+
+        Number of systems where each bacteria has a different main predator = 7859
+        percentage = 0.9772444665506093 
+
+        Number of cases were both happen = 7712
+        percentage = 0.9589654314847053 
+
+        difference % between phages and bacteria = 0.018279035065904004 
+
+        percentage both and the same = 0.8261626461079333 
+
+        difference % between both and both_and_the_same) = 0.13280278537677193 
+
+        Total number of cases that follow this pattern = 0.9988808754041283 
+
+
+        Average number of interactions per phage 1.0689905037946683 
+
+
+        number of bacteria without predators = 1059
+        number of bacteria that increase diversity = 1087
+        percentage = 0.9742410303587856 
+
+
+        number of species that ever existed = 4562
+        number of bacteria that ever existed = 2499
+        number of phages that ever existed = 2063 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 166
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 98 
+
+
+        Average number of species = 5.69
+        Average number of bacteria = 3.0679
+        Average number of phages = 2.6221 
+
+
+        n_max = 15
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7179
+        Number of systems where each phage has a different main food source = 6863
+        percentage = 0.9559827273993592 
+
+        Number of systems where each bacteria has a different main predator = 6853
+        percentage = 0.954589775734782 
+
+        Number of cases were both happen = 6559
+        percentage = 0.9136369967962111 
+
+        difference % between phages and bacteria = 0.040952778938570855 
+
+        percentage both and the same = 0.8073547847889678 
+
+        difference % between both and both_and_the_same) = 0.1062822120072433 
+
+        Total number of cases that follow this pattern = 0.99693550633793 
+
+
+        Average number of interactions per phage 1.1348267898383373 
+
+
+        number of bacteria without predators = 908
+        number of bacteria that increase diversity = 957
+        percentage = 0.9487983281086729 
+
+
+        number of species that ever existed = 4468
+        number of bacteria that ever existed = 2355
+        number of phages that ever existed = 2113 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 288
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 222 
+
+
+        Average number of species = 4.7318
+        Average number of bacteria = 2.5668
+        Average number of phages = 2.165 
+
+
+        n_max = 13
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6526
+        Number of systems where each phage has a different main food source = 6091
+        percentage = 0.9333435488813975 
+
+        Number of systems where each bacteria has a different main predator = 6336
+        percentage = 0.9708856880171621 
+
+        Number of cases were both happen = 5936
+        percentage = 0.9095923996322403 
+
+        difference % between phages and bacteria = 0.061293288384921873 
+
+        percentage both and the same = 0.7981918479926448 
+
+        difference % between both and both_and_the_same) = 0.1114005516395955 
+
+        Total number of cases that follow this pattern = 0.9946368372663194 
+
+
+        Average number of interactions per phage 1.1645003853069613 
+
+
+        number of bacteria without predators = 875
+        number of bacteria that increase diversity = 915
+        percentage = 0.9562841530054644 
+
+
+        number of species that ever existed = 4500
+        number of bacteria that ever existed = 2336
+        number of phages that ever existed = 2164 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 390
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 292 
+
+
+        Average number of species = 4.2405
+        Average number of bacteria = 2.294
+        Average number of phages = 1.9465 
+
+
+        n_max = 10
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+
+        Number of systems with more than 2 phages = 6027
+        Number of systems where each phage has a different main food source = 5603
+        percentage = 0.9296499087439855 
+
+        Number of systems where each bacteria has a different main predator = 5777
+        percentage = 0.9585199933631989 
+
+        Number of cases were both happen = 5397
+        percentage = 0.8954703832752613 
+
+        difference % between phages and bacteria = 0.06304961008793764 
+
+        percentage both and the same = 0.8244566119130579 
+
+        difference % between both and both_and_the_same) = 0.07101377136220344 
+
+        Total number of cases that follow this pattern = 0.9926995188319231 
+
+
+        Average number of interactions per phage 1.2247719580058516 
+
+
+        number of bacteria without predators = 753
+        number of bacteria that increase diversity = 819
+        percentage = 0.9194139194139194 
+
+
+        number of species that ever existed = 4336
+        number of bacteria that ever existed = 2219
+        number of phages that ever existed = 2117 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 487
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 384 
+
+
+        Average number of species = 3.7957
+        Average number of bacteria = 2.0526
+        Average number of phages = 1.7431 
+
+
+        n_max = 10
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5735
+        Number of systems where each phage has a different main food source = 5275
+        percentage = 0.9197907585004359 
+
+        Number of systems where each bacteria has a different main predator = 5516
+        percentage = 0.9618134263295554 
+
+        Number of cases were both happen = 5126
+        percentage = 0.8938099389712293 
+
+        difference % between phages and bacteria = 0.06800348735832606 
+
+        percentage both and the same = 0.8510897994768962 
+
+        difference % between both and both_and_the_same) = 0.042720139494333065 
+
+        Total number of cases that follow this pattern = 0.987794245858762 
+
+
+        Average number of interactions per phage 1.2695583882075756 
+
+
+        number of bacteria without predators = 694
+        number of bacteria that increase diversity = 763
+        percentage = 0.90956749672346 
+
+
+        number of species that ever existed = 4265
+        number of bacteria that ever existed = 2122
+        number of phages that ever existed = 2143 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 527
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 408 
+
+
+        Average number of species = 3.5851
+        Average number of bacteria = 1.9298
+        Average number of phages = 1.6553 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 4870
+        Number of systems where each phage has a different main food source = 4429
+        percentage = 0.9094455852156057 
+
+        Number of systems where each bacteria has a different main predator = 4714
+        percentage = 0.9679671457905544 
+
+        Number of cases were both happen = 4299
+        percentage = 0.8827515400410678 
+
+        difference % between phages and bacteria = 0.08521560574948661 
+
+        percentage both and the same = 0.8570841889117043 
+
+        difference % between both and both_and_the_same) = 0.02566735112936347 
+
+        Total number of cases that follow this pattern = 0.9946611909650923 
+
+
+        Average number of interactions per phage 1.2674076057846813 
+
+
+        number of bacteria without predators = 586
+        number of bacteria that increase diversity = 654
+        percentage = 0.8960244648318043 
+
+
+        number of species that ever existed = 4143
+        number of bacteria that ever existed = 2044
+        number of phages that ever existed = 2099 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 583
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 524 
+
+
+        Average number of species = 3.2204
+        Average number of bacteria = 1.7268
+        Average number of phages = 1.4936 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 3440
+        Number of systems where each phage has a different main food source = 3106
+        percentage = 0.9029069767441861 
+
+        Number of systems where each bacteria has a different main predator = 3387
+        percentage = 0.984593023255814 
+
+        Number of cases were both happen = 3057
+        percentage = 0.8886627906976744 
+
+        difference % between phages and bacteria = 0.0959302325581396 
+
+        percentage both and the same = 0.8619186046511628 
+
+        difference % between both and both_and_the_same) = 0.02674418604651163 
+
+        Total number of cases that follow this pattern = 0.9988372093023257 
+
+
+        Average number of interactions per phage 1.2600167262221547 
+
+
+        number of bacteria without predators = 497
+        number of bacteria that increase diversity = 568
+        percentage = 0.875 
+
+
+        number of species that ever existed = 3989
+        number of bacteria that ever existed = 1953
+        number of phages that ever existed = 2036 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 677
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 580 
+
+
+        Average number of species = 2.8321
+        Average number of bacteria = 1.5168
+        Average number of phages = 1.3153 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 2886
+        Number of systems where each phage has a different main food source = 2526
+        percentage = 0.8752598752598753 
+
+        Number of systems where each bacteria has a different main predator = 2824
+        percentage = 0.9785169785169785 
+
+        Number of cases were both happen = 2486
+        percentage = 0.8613998613998614 
+
+        difference % between phages and bacteria = 0.11711711711711714 
+
+        percentage both and the same = 0.8555093555093555 
+
+        difference % between both and both_and_the_same) = 0.005890505890505882 
+
+        Total number of cases that follow this pattern = 0.9923769923769924 
+
+
+        Average number of interactions per phage 1.290047393364929 
+
+
+        number of bacteria without predators = 381
+        number of bacteria that increase diversity = 460
+        percentage = 0.8282608695652174 
+
+
+        number of species that ever existed = 3727
+        number of bacteria that ever existed = 1790
+        number of phages that ever existed = 1937 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 688
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 588 
+
+
+        Average number of species = 2.6861
+        Average number of bacteria = 1.4201
+        Average number of phages = 1.266 
+
+
+        n_max = 8
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 1892
+        Number of systems where each phage has a different main food source = 1657
+        percentage = 0.8757928118393234 
+
+        Number of systems where each bacteria has a different main predator = 1876
+        percentage = 0.9915433403805497 
+
+        Number of cases were both happen = 1645
+        percentage = 0.8694503171247357 
+
+        difference % between phages and bacteria = 0.12209302325581395 
+
+        percentage both and the same = 0.8662790697674418 
+
+        difference % between both and both_and_the_same) = 0.003171247357293905 
+
+        Total number of cases that follow this pattern = 0.9978858350951374 
+
+
+        Average number of interactions per phage 1.253147212468956 
+
+
+        number of bacteria without predators = 232
+        number of bacteria that increase diversity = 333
+        percentage = 0.6966966966966966 
+
+
+        number of species that ever existed = 3524
+        number of bacteria that ever existed = 1699
+        number of phages that ever existed = 1825 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 687
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 670 
+
+
+        Average number of species = 2.4371
+        Average number of bacteria = 1.2694
+        Average number of phages = 1.1677 
+
+
+        n_max = 6
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 834
+        Number of systems where each phage has a different main food source = 690
+        percentage = 0.8273381294964028 
+
+        Number of systems where each bacteria has a different main predator = 820
+        percentage = 0.9832134292565947 
+
+        Number of cases were both happen = 690
+        percentage = 0.8273381294964028 
+
+        difference % between phages and bacteria = 0.15587529976019188 
+
+        percentage both and the same = 0.8273381294964028 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.9832134292565947 
+
+
+        Average number of interactions per phage 1.1841737347376269 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 124
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3320
+        number of bacteria that ever existed = 1586
+        number of phages that ever existed = 1734 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 753
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 703 
+
+
+        Average number of species = 2.1838
+        Average number of bacteria = 1.1109
+        Average number of phages = 1.0729 
+
+
+        n_max = 6
+
+
+
+
+
+
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9917
+        Number of systems where each phage has a different main food source = 9917
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9917
+        percentage = 1.0 
+
+        Number of cases were both happen = 9917
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 277
+        number of bacteria that increase diversity = 277
+        percentage = 1.0 
+
+
+        number of species that ever existed = 1096
+        number of bacteria that ever existed = 668
+        number of phages that ever existed = 428 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 5
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 14.8388
+        Average number of bacteria = 7.8158
+        Average number of phages = 7.023 
+
+
+        n_max = 19
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7565
+        Number of systems where each phage has a different main food source = 7259
+        percentage = 0.9595505617977528 
+
+        Number of systems where each bacteria has a different main predator = 7190
+        percentage = 0.9504296100462657 
+
+        Number of cases were both happen = 6925
+        percentage = 0.9153998678122934 
+
+        difference % between phages and bacteria = 0.03502974223397226 
+
+        percentage both and the same = 0.8015862524785194 
+
+        difference % between both and both_and_the_same) = 0.11381361533377399 
+
+        Total number of cases that follow this pattern = 0.994580304031725 
+
+
+        Average number of interactions per phage 1.0855872245805538 
+
+
+        number of bacteria without predators = 1034
+        number of bacteria that increase diversity = 1066
+        percentage = 0.9699812382739212 
+
+
+        number of species that ever existed = 4488
+        number of bacteria that ever existed = 2470
+        number of phages that ever existed = 2018 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 202
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 116 
+
+
+        Average number of species = 5.4206
+        Average number of bacteria = 2.9471
+        Average number of phages = 2.4735 
+
+
+        n_max = 19
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7143
+        Number of systems where each phage has a different main food source = 6942
+        percentage = 0.9718605627887442 
+
+        Number of systems where each bacteria has a different main predator = 6852
+        percentage = 0.9592608147837043 
+
+        Number of cases were both happen = 6672
+        percentage = 0.9340613187736245 
+
+        difference % between phages and bacteria = 0.025199496010079758 
+
+        percentage both and the same = 0.8359232815343693 
+
+        difference % between both and both_and_the_same) = 0.09813803723925518 
+
+        Total number of cases that follow this pattern = 0.997060058798824 
+
+
+        Average number of interactions per phage 1.131670776531894 
+
+
+        number of bacteria without predators = 915
+        number of bacteria that increase diversity = 949
+        percentage = 0.964172813487882 
+
+
+        number of species that ever existed = 4405
+        number of bacteria that ever existed = 2304
+        number of phages that ever existed = 2101 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 277
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 188 
+
+
+        Average number of species = 4.6912
+        Average number of bacteria = 2.5419
+        Average number of phages = 2.1493 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6668
+        Number of systems where each phage has a different main food source = 6284
+        percentage = 0.9424115176964607 
+
+        Number of systems where each bacteria has a different main predator = 6418
+        percentage = 0.9625074985002999 
+
+        Number of cases were both happen = 6061
+        percentage = 0.9089682063587282 
+
+        difference % between phages and bacteria = 0.053539292141571715 
+
+        percentage both and the same = 0.8189862027594481 
+
+        difference % between both and both_and_the_same) = 0.0899820035992801 
+
+        Total number of cases that follow this pattern = 0.9959508098380324 
+
+
+        Average number of interactions per phage 1.1874967761902306 
+
+
+        number of bacteria without predators = 823
+        number of bacteria that increase diversity = 873
+        percentage = 0.9427262313860252 
+
+
+        number of species that ever existed = 4389
+        number of bacteria that ever existed = 2248
+        number of phages that ever existed = 2141 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 410
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 288 
+
+
+        Average number of species = 4.2203
+        Average number of bacteria = 2.2816
+        Average number of phages = 1.9387 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+
+        Number of systems with more than 2 phages = 5834
+        Number of systems where each phage has a different main food source = 5501
+        percentage = 0.9429208090503942 
+
+        Number of systems where each bacteria has a different main predator = 5650
+        percentage = 0.9684607473431608 
+
+        Number of cases were both happen = 5332
+        percentage = 0.9139526911210147 
+
+        difference % between phages and bacteria = 0.05450805622214605 
+
+        percentage both and the same = 0.8579019540623929 
+
+        difference % between both and both_and_the_same) = 0.05605073705862185 
+
+        Total number of cases that follow this pattern = 0.9974288652725403 
+
+
+        Average number of interactions per phage 1.2044280009396289 
+
+
+        number of bacteria without predators = 757
+        number of bacteria that increase diversity = 809
+        percentage = 0.9357231149567367 
+
+
+        number of species that ever existed = 4324
+        number of bacteria that ever existed = 2164
+        number of phages that ever existed = 2160 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 494
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 373 
+
+
+        Average number of species = 3.7056
+        Average number of bacteria = 2.0028
+        Average number of phages = 1.7028 
+
+
+        n_max = 9
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 4982
+        Number of systems where each phage has a different main food source = 4658
+        percentage = 0.9349658771577679 
+
+        Number of systems where each bacteria has a different main predator = 4840
+        percentage = 0.9714973906061822 
+
+        Number of cases were both happen = 4536
+        percentage = 0.9104777197912485 
+
+        difference % between phages and bacteria = 0.06101967081493376 
+
+        percentage both and the same = 0.8695303091128062 
+
+        difference % between both and both_and_the_same) = 0.04094741067844232 
+
+        Total number of cases that follow this pattern = 0.9959855479727017 
+
+
+        Average number of interactions per phage 1.2013725490196079 
+
+
+        number of bacteria without predators = 695
+        number of bacteria that increase diversity = 759
+        percentage = 0.9156785243741765 
+
+
+        number of species that ever existed = 4221
+        number of bacteria that ever existed = 2110
+        number of phages that ever existed = 2111 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 563
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 461 
+
+
+        Average number of species = 3.3426
+        Average number of bacteria = 1.8126
+        Average number of phages = 1.53 
+
+
+        n_max = 10
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 4741
+        Number of systems where each phage has a different main food source = 4359
+        percentage = 0.9194262813752373 
+
+        Number of systems where each bacteria has a different main predator = 4579
+        percentage = 0.965829993672221 
+
+        Number of cases were both happen = 4223
+        percentage = 0.8907403501371018 
+
+        difference % between phages and bacteria = 0.07508964353511915 
+
+        percentage both and the same = 0.8685931238135415 
+
+        difference % between both and both_and_the_same) = 0.022147226323560365 
+
+        Total number of cases that follow this pattern = 0.9945159249103565 
+
+
+        Average number of interactions per phage 1.2424408263784374 
+
+
+        number of bacteria without predators = 595
+        number of bacteria that increase diversity = 664
+        percentage = 0.8960843373493976 
+
+
+        number of species that ever existed = 4190
+        number of bacteria that ever existed = 2033
+        number of phages that ever existed = 2157 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 610
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 526 
+
+
+        Average number of species = 3.1616
+        Average number of bacteria = 1.6998
+        Average number of phages = 1.4618 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 4009
+        Number of systems where each phage has a different main food source = 3624
+        percentage = 0.9039660763282614 
+
+        Number of systems where each bacteria has a different main predator = 3907
+        percentage = 0.9745572461960589 
+
+        Number of cases were both happen = 3547
+        percentage = 0.8847592915939136 
+
+        difference % between phages and bacteria = 0.08979795460214524 
+
+        percentage both and the same = 0.8585682215016214 
+
+        difference % between both and both_and_the_same) = 0.026191070092292268 
+
+        Total number of cases that follow this pattern = 0.9937640309304067 
+
+
+        Average number of interactions per phage 1.2942025846509277 
+
+
+        number of bacteria without predators = 475
+        number of bacteria that increase diversity = 557
+        percentage = 0.8527827648114902 
+
+
+        number of species that ever existed = 3947
+        number of bacteria that ever existed = 1937
+        number of phages that ever existed = 2010 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 666
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 550 
+
+
+        Average number of species = 2.9577
+        Average number of bacteria = 1.5726
+        Average number of phages = 1.3851 
+
+
+        n_max = 8
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+
+        Number of systems with more than 2 phages = 3169
+        Number of systems where each phage has a different main food source = 2795
+        percentage = 0.8819816976964342 
+
+        Number of systems where each bacteria has a different main predator = 3130
+        percentage = 0.9876932786367939 
+
+        Number of cases were both happen = 2759
+        percentage = 0.8706216472073209 
+
+        difference % between phages and bacteria = 0.11707163142947297 
+
+        percentage both and the same = 0.8564215840959293 
+
+        difference % between both and both_and_the_same) = 0.014200063111391659 
+
+        Total number of cases that follow this pattern = 0.9990533291259072 
+
+
+        Average number of interactions per phage 1.2914986037852931 
+
+
+        number of bacteria without predators = 359
+        number of bacteria that increase diversity = 431
+        percentage = 0.8329466357308585 
+
+
+        number of species that ever existed = 3821
+        number of bacteria that ever existed = 1797
+        number of phages that ever existed = 2024 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 667
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 605 
+
+
+        Average number of species = 2.7277
+        Average number of bacteria = 1.4385
+        Average number of phages = 1.2892 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+        Number of systems with more than 2 phages = 2213
+        Number of systems where each phage has a different main food source = 1949
+        percentage = 0.8807049254405784 
+
+        Number of systems where each bacteria has a different main predator = 2194
+        percentage = 0.991414369633981 
+
+        Number of cases were both happen = 1937
+        percentage = 0.8752824220515137 
+
+        difference % between phages and bacteria = 0.11613194758246725 
+
+        percentage both and the same = 0.8752824220515137 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.9968368730230457 
+
+
+        Average number of interactions per phage 1.2829415209570818 
+
+
+        number of bacteria without predators = 221
+        number of bacteria that increase diversity = 345
+        percentage = 0.6405797101449275 
+
+
+        number of species that ever existed = 3620
+        number of bacteria that ever existed = 1751
+        number of phages that ever existed = 1869 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 711
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 682 
+
+
+        Average number of species = 2.5024
+        Average number of bacteria = 1.3071
+        Average number of phages = 1.1953 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 738
+        Number of systems where each phage has a different main food source = 650
+        percentage = 0.8807588075880759 
+
+        Number of systems where each bacteria has a different main predator = 733
+        percentage = 0.9932249322493225 
+
+        Number of cases were both happen = 647
+        percentage = 0.8766937669376694 
+
+        difference % between phages and bacteria = 0.11653116531165308 
+
+        percentage both and the same = 0.8766937669376694 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 0.997289972899729 
+
+
+        Average number of interactions per phage 1.1686792099597492 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 153
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3291
+        number of bacteria that ever existed = 1617
+        number of phages that ever existed = 1674 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 756
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 717 
+
+
+        Average number of species = 2.1736
+        Average number of bacteria = 1.1053
+        Average number of phages = 1.0683 
+
+
+        n_max = 6
+        
+        Model 2 (10000 steps)
+        Probability = 0. 
+
+
+        Number of systems with more than 2 phages = 9880
+        Number of systems where each phage has a different main food source = 9880
+        percentage = 1.0 
+
+        Number of systems where each bacteria has a different main predator = 9880
+        percentage = 1.0 
+
+        Number of cases were both happen = 9880
+        percentage = 1.0 
+
+        difference % between phages and bacteria = 0.0 
+
+        percentage both and the same = 1.0 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.0 
+
+
+        number of bacteria without predators = 95
+        number of bacteria that increase diversity = 95
+        percentage = 1.0 
+
+
+        number of species that ever existed = 391
+        number of bacteria that ever existed = 244
+        number of phages that ever existed = 147 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 6
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 0 
+
+
+        Average number of species = 7.4216
+        Average number of bacteria = 4.1376
+        Average number of phages = 3.284 
+
+
+        n_max = 13
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.1 
+
+
+        Number of systems with more than 2 phages = 7715
+        Number of systems where each phage has a different main food source = 7593
+        percentage = 0.9841866493843162 
+
+        Number of systems where each bacteria has a different main predator = 7429
+        percentage = 0.9629293583927414 
+
+        Number of cases were both happen = 7310
+        percentage = 0.9475048606610499 
+
+        difference % between phages and bacteria = 0.015424497731691522 
+
+        percentage both and the same = 0.8418664938431627 
+
+        difference % between both and both_and_the_same) = 0.10563836681788719 
+
+        Total number of cases that follow this pattern = 0.9996111471160077 
+
+
+        Average number of interactions per phage 1.0638099485142092 
+
+
+        number of bacteria without predators = 1064
+        number of bacteria that increase diversity = 1095
+        percentage = 0.971689497716895 
+
+
+        number of species that ever existed = 4558
+        number of bacteria that ever existed = 2510
+        number of phages that ever existed = 2048 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 197
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 115 
+
+
+        Average number of species = 5.383
+        Average number of bacteria = 2.9163
+        Average number of phages = 2.4667 
+
+
+        n_max = 14
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.2 
+
+
+        Number of systems with more than 2 phages = 7081
+        Number of systems where each phage has a different main food source = 6780
+        percentage = 0.9574918796780115 
+
+        Number of systems where each bacteria has a different main predator = 6783
+        percentage = 0.9579155486513204 
+
+        Number of cases were both happen = 6505
+        percentage = 0.9186555571246999 
+
+        difference % between phages and bacteria = 0.03925999152662052 
+
+        percentage both and the same = 0.807513063126677 
+
+        difference % between both and both_and_the_same) = 0.1111424939980229 
+
+        Total number of cases that follow this pattern = 0.996751871204632 
+
+
+        Average number of interactions per phage 1.1322500460320384 
+
+
+        number of bacteria without predators = 955
+        number of bacteria that increase diversity = 1004
+        percentage = 0.951195219123506 
+
+
+        number of species that ever existed = 4491
+        number of bacteria that ever existed = 2423
+        number of phages that ever existed = 2068 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 325
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 207 
+
+
+        Average number of species = 4.7486
+        Average number of bacteria = 2.5762
+        Average number of phages = 2.1724 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.3 
+
+
+        Number of systems with more than 2 phages = 6662
+        Number of systems where each phage has a different main food source = 6344
+        percentage = 0.9522665866106275 
+
+        Number of systems where each bacteria has a different main predator = 6409
+        percentage = 0.962023416391474 
+
+        Number of cases were both happen = 6113
+        percentage = 0.9175923146202342 
+
+        difference % between phages and bacteria = 0.04443110177123988 
+
+        percentage both and the same = 0.811918342839988 
+
+        difference % between both and both_and_the_same) = 0.10567397178024618 
+
+        Total number of cases that follow this pattern = 0.9966976883818673 
+
+
+        Average number of interactions per phage 1.1696451563063295 
+
+
+        number of bacteria without predators = 863
+        number of bacteria that increase diversity = 918
+        percentage = 0.9400871459694989 
+
+
+        number of species that ever existed = 4455
+        number of bacteria that ever existed = 2264
+        number of phages that ever existed = 2191 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 405
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 299 
+
+
+        Average number of species = 4.2421
+        Average number of bacteria = 2.3004
+        Average number of phages = 1.9417 
+
+
+        n_max = 12
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.4
+
+        Number of systems with more than 2 phages = 5827
+        Number of systems where each phage has a different main food source = 5443
+        percentage = 0.9340998798695727 
+
+        Number of systems where each bacteria has a different main predator = 5617
+        percentage = 0.9639608718036725 
+
+        Number of cases were both happen = 5258
+        percentage = 0.9023511240775699 
+
+        difference % between phages and bacteria = 0.061609747726102615 
+
+        percentage both and the same = 0.8326754762313369 
+
+        difference % between both and both_and_the_same) = 0.06967564784623304 
+
+        Total number of cases that follow this pattern = 0.9957096275956753 
+
+
+        Average number of interactions per phage 1.2276502480101512 
+
+
+        number of bacteria without predators = 746
+        number of bacteria that increase diversity = 801
+        percentage = 0.9313358302122348 
+
+
+        number of species that ever existed = 4333
+        number of bacteria that ever existed = 2201
+        number of phages that ever existed = 2132 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 476
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 373 
+
+
+        Average number of species = 3.7763
+        Average number of bacteria = 2.0425
+        Average number of phages = 1.7338 
+
+
+        n_max = 11
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.5 
+
+
+        Number of systems with more than 2 phages = 5562
+        Number of systems where each phage has a different main food source = 5114
+        percentage = 0.9194534340165408 
+
+        Number of systems where each bacteria has a different main predator = 5372
+        percentage = 0.9658396260338008 
+
+        Number of cases were both happen = 4960
+        percentage = 0.8917655519597267 
+
+        difference % between phages and bacteria = 0.07407407407407407 
+
+        percentage both and the same = 0.8417835311039195 
+
+        difference % between both and both_and_the_same) = 0.049982020855807274 
+
+        Total number of cases that follow this pattern = 0.9935275080906149 
+
+
+        Average number of interactions per phage 1.237823769983889 
+
+
+        number of bacteria without predators = 666
+        number of bacteria that increase diversity = 726
+        percentage = 0.9173553719008265 
+
+
+        number of species that ever existed = 4261
+        number of bacteria that ever existed = 2121
+        number of phages that ever existed = 2140 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 542
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 451 
+
+
+        Average number of species = 3.4899
+        Average number of bacteria = 1.8761
+        Average number of phages = 1.6138 
+
+
+        n_max = 8
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.6
+
+        Number of systems with more than 2 phages = 4656
+        Number of systems where each phage has a different main food source = 4272
+        percentage = 0.9175257731958762 
+
+        Number of systems where each bacteria has a different main predator = 4547
+        percentage = 0.9765893470790378 
+
+        Number of cases were both happen = 4177
+        percentage = 0.8971219931271478 
+
+        difference % between phages and bacteria = 0.07946735395188997 
+
+        percentage both and the same = 0.8730670103092784 
+
+        difference % between both and both_and_the_same) = 0.02405498281786944 
+
+        Total number of cases that follow this pattern = 0.9969931271477662 
+
+
+        Average number of interactions per phage 1.2448070199492698 
+
+
+        number of bacteria without predators = 594
+        number of bacteria that increase diversity = 664
+        percentage = 0.8945783132530121 
+
+
+        number of species that ever existed = 4022
+        number of bacteria that ever existed = 2008
+        number of phages that ever existed = 2014 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 607
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 506 
+
+
+        Average number of species = 3.1647
+        Average number of bacteria = 1.706
+        Average number of phages = 1.4587 
+
+
+        n_max = 7
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.7 
+
+
+        Number of systems with more than 2 phages = 4171
+        Number of systems where each phage has a different main food source = 3711
+        percentage = 0.8897146967154159 
+
+        Number of systems where each bacteria has a different main predator = 4071
+        percentage = 0.9760249340685687 
+
+        Number of cases were both happen = 3641
+        percentage = 0.872932150563414 
+
+        difference % between phages and bacteria = 0.10309278350515472 
+
+        percentage both and the same = 0.8650203788060418 
+
+        difference % between both and both_and_the_same) = 0.007911771757372232 
+
+        Total number of cases that follow this pattern = 0.9928074802205706 
+
+
+        Average number of interactions per phage 1.2953908103832603 
+
+
+        number of bacteria without predators = 468
+        number of bacteria that increase diversity = 540
+        percentage = 0.8666666666666667 
+
+
+        number of species that ever existed = 3892
+        number of bacteria that ever existed = 1943
+        number of phages that ever existed = 1949 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 655
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 543 
+
+
+        Average number of species = 2.9683
+        Average number of bacteria = 1.5776
+        Average number of phages = 1.3907 
+
+
+        n_max = 7
+
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 0.8 
+
+        Number of systems with more than 2 phages = 3271
+        Number of systems where each phage has a different main food source = 2959
+        percentage = 0.9046163252827881 
+
+        Number of systems where each bacteria has a different main predator = 3215
+        percentage = 0.982879853255885 
+
+        Number of cases were both happen = 2931
+        percentage = 0.8960562519107307 
+
+        difference % between phages and bacteria = 0.08682360134515432 
+
+        percentage both and the same = 0.8923876490369917 
+
+        difference % between both and both_and_the_same) = 0.0036686028737389353 
+
+        Total number of cases that follow this pattern = 0.9914399266279424 
+
+
+        Average number of interactions per phage 1.2991150442477877 
+
+
+        number of bacteria without predators = 362
+        number of bacteria that increase diversity = 445
+        percentage = 0.8134831460674158 
+
+
+        number of species that ever existed = 3734
+        number of bacteria that ever existed = 1805
+        number of phages that ever existed = 1929 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 660
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 609 
+
+
+        Average number of species = 2.7528
+        Average number of bacteria = 1.4533
+        Average number of phages = 1.2995 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        probability = 0.9
+
+        Number of systems with more than 2 phages = 1655
+        Number of systems where each phage has a different main food source = 1391
+        percentage = 0.8404833836858006 
+
+        Number of systems where each bacteria has a different main predator = 1614
+        percentage = 0.9752265861027191 
+
+        Number of cases were both happen = 1373
+        percentage = 0.829607250755287 
+
+        difference % between phages and bacteria = 0.1456193353474321 
+
+        percentage both and the same = 0.8283987915407856 
+
+        difference % between both and both_and_the_same) = 0.0012084592145014117 
+
+        Total number of cases that follow this pattern = 0.9861027190332327 
+
+
+        Average number of interactions per phage 1.2246510402949697 
+
+
+        number of bacteria without predators = 222
+        number of bacteria that increase diversity = 319
+        percentage = 0.6959247648902821 
+
+
+        number of species that ever existed = 3579
+        number of bacteria that ever existed = 1752
+        number of phages that ever existed = 1827 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 752
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 695 
+
+
+        Average number of species = 2.3841
+        Average number of bacteria = 1.245
+        Average number of phages = 1.1391 
+
+
+        n_max = 6
+
+
+
+
+
+        Model 2 (10000 steps)
+        Probability = 1.0 
+
+
+        Number of systems with more than 2 phages = 623
+        Number of systems where each phage has a different main food source = 547
+        percentage = 0.8780096308186196 
+
+        Number of systems where each bacteria has a different main predator = 623
+        percentage = 1.0 
+
+        Number of cases were both happen = 547
+        percentage = 0.8780096308186196 
+
+        difference % between phages and bacteria = 0.1219903691813804 
+
+        percentage both and the same = 0.8780096308186196 
+
+        difference % between both and both_and_the_same) = 0.0 
+
+        Total number of cases that follow this pattern = 1.0 
+
+
+        Average number of interactions per phage 1.1464227874630848 
+
+
+        number of bacteria without predators = 0
+        number of bacteria that increase diversity = 121
+        percentage = 0.0 
+
+
+        number of species that ever existed = 3254
+        number of bacteria that ever existed = 1593
+        number of phages that ever existed = 1661 
+
+
+        Number of times that a fastest growing bacteria was substituted by an even faster growing one = 747
+        Number of times that a fastest growing bacteria was substituted by an slower growing one = 727 
+
+
+        Average number of species = 2.1409
+        Average number of bacteria = 1.0912
+        Average number of phages = 1.0497 
+
+
+        n_max = 4
+        
